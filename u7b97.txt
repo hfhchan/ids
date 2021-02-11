@@ -36,5 +36,5 @@ U+28C2D	𨰭	⿰金纂
 U+25D8A	𥶊	⿱篹皿
 
 # Simplifications
-U+30FC7	𰿇	䥷
-U+2CB83	𬮃	𨰭
+U+30FC7	𰿇	⿰钅㔍
+U+2CB83	𬮃	⿰钅纂
