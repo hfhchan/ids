@@ -1,0 +1,44 @@
+# 𦣝
+U+268DD	𦣝	𦣝
+
+# hkcs_m268dd
+U+59EC	姬	⿰女𦣝
+U+5BA7	宧	⿱宀𦣝
+U+5F2C	弬	⿰弓𦣝
+U+6D0D	洍	⿰氵𦣝
+U+831D	茝	⿱艹𦣝
+U+3EBF	㺿	⿰王𦣝
+U+4C4C	䱌	⿰魚𦣝
+U+2669F	𦚟	⿰⺼𦣝
+U+296C9	𩛉	⿰飠𦣝
+U+2981B	𩠛	⿰首𦣝
+
+# Source Code Separation
+U+268DE	𦣞	𦣝
+
+# hkcs_m268dd-p01-s00
+U+8CFE	賾	⿰𦣝責
+U+238AE	𣢮	⿰𦣝欠
+U+279C3	𧧃	⿰𦣝言
+
+# hkcs_m268dd-p01-s01
+U+5DF8	巸	⿰𦣝巳
+U+9824	頤	⿰𦣝頁
+U+3F22	㼢	⿰𦣝瓦
+
+# hkcs_m268dd-p01-s02
+U+3E87	㺇	⿲犭𦣝犬
+
+# hkcs_m5df8-p02-s00
+U+2972E	𩜮	⿰飠巸
+U+2976E	𩝮	⿰飠巸
+U+2C998	𬦘	⿺走巸
+
+# hkcs_m5df8-p03-s00
+U+5A90	媐	⿱巸女
+U+7155	煕	⿱巸灬
+
+# Simplifications
+U+8D5C	赜	⿰𦣝责
+U+9890	颐	⿰𦣝页
+U+311EC	𱇬	⿰鱼𦣝
