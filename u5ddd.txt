@@ -1,5 +1,5 @@
 # 川
-U+5DDD	川	
+U+5DDD	川	川
 
 # hkcs_m5ddd
 U+21D45	𡵅	⿱山川
