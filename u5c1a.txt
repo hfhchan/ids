@@ -64,7 +64,7 @@ U+252A2	𥊢	⿰直尙
 U+2970B	𩜋	⿰飠尙
 
 # Simplifications
-U+7EF1	绱	⿰糸尙
+U+7EF1	绱	⿰纟尙
 
 # hkcs_m5c19-p03-s00
 U+751E	甞	⿱尙甘
