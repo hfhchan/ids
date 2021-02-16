@@ -59,7 +59,7 @@ U+20D48	𠵈	⿰口妹
 U+26F87	𦾇	⿱英妹
 
 # Simplifications
-U+311DB	𱇛	鮇	~⿰鱼未
+U+311DB	𱇛	鮇	⿰鱼未
 
 # hkcs_m771c-p01-s00
 U+29520	𩔠	⿰眜頁
