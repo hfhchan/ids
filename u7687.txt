@@ -53,6 +53,9 @@ U+28367	𨍧	⿰車皇
 U+2B91F	𫤟	⿰兄皇
 U+2C5EC	𬗬	⿰糸皇
 
+# hkcs_m7687-p46-s00
+U+51F0	凰	⿵𠘨皇
+
 # Simplifications
 U+953D	锽	⿰钅皇
 U+9CC7	鳇	⿰鱼皇
