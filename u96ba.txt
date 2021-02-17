@@ -4,7 +4,7 @@ U+96BA	隺	⿻冖隹
 # hkcs_m96ba
 U+7BE7	篧	⿱竹隺
 U+84AE	蒮	⿱艹隺
-U+26FE0	𦿠	⿲艹隺艹
+U+26FE0	𦿠	⿳艹隺艹
 
 # hkcs_m96ba-p01-s00
 U+9DB4	鶴	⿰隺鳥
