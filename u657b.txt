@@ -1,0 +1,33 @@
+# 敻
+U+657B	敻	⿳〓目攵
+
+# hkcs_m657b
+U+85D1	藑	⿱艹敻
+
+# hkcs_m657b-p02-s00
+U+74CA	瓊	⿰王敻
+U+77CE	矎	⿰目敻
+U+89FC	觼	⿰角敻
+U+8B82	讂	⿰言敻
+U+22DF3	𢷳	⿰扌敻
+U+274EC	𧓬	⿰虫敻
+U+299CA	𩧊	⿰馬敻
+U+2A929	𪤩	⿰土敻
+U+2AC4F	𪱏	⿰日敻
+U+2DD9B	𭶛	⿰火敻
+U+2E96E	𮥮	⿰阝敻
+
+# hkcs_m74ca
+U+244C7	𤓇	⿰火瓊
+
+# Simplifications
+U+30D8D	𰶍	⿰讠敻
+
+# Duplicate (夐)
+U+5910	夐	敻
+
+# Unifiable (𢿌)
+U+22FCC	𢿌	敻	⿳〓目攴
+U+27070	𧁰	藑	⿱艹𢿌
+U+2794E	𧥎	觼	⿰角𢿌
+U+27B66	𧭦	讂	⿰言𢿌
