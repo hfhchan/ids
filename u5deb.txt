@@ -1,0 +1,48 @@
+# 巫
+U+5DEB	巫	巫
+
+# hkcs_m5deb
+U+8381	莁	⿱艹巫
+U+22023	𢀣	⿱巫𠬞
+U+27A08	𧨈	⿱巫言
+U+2A6A0	𪚠	⿱龍巫
+
+# hkcs_m5deb-p01-s00
+U+89A1	覡	⿰巫見
+U+9D50	鵐	⿰巫鳥
+U+28FCF	𨿏	⿰巫隹
+
+# hkcs_m5deb-p02-s00
+U+8AA3	誣	⿰言巫
+U+21DEF	𡷯	⿰山巫
+U+220C0	𢃀	⿰巾巫
+U+2C0B3	𬂳	⿰木巫
+
+# hkcs_m5deb-p04-s00
+U+6BC9	毉	⿱殹巫
+U+7B6E	筮	⿱竹巫
+U+9748	靈	⿱霝巫
+
+# hkcs_m5deb-p04-s01
+U+7B6E	筮	⿱竹巫
+
+# hkcs_m7b6e-p02-s00
+U+566C	噬	⿰口筮
+U+907E	遾	⿺辶筮
+U+28F39	𨼹	⿰阝筮
+
+# hkcs_m7b6e-p02-s01
+U+6FA8	澨	⿰氵筮
+U+22D85	𢶅	⿰扌筮
+
+# hkcs_m7b6e-p03-s00
+U+25C30	𥰰	⿱筮廾
+U+25C30	𥰰	⿱筮廾
+
+# hkcs_m25c30-p03-s00
+U+7C2D	簭	⿱𥰰口
+
+# Simplifications
+U+89CB	觋	⿰巫见
+U+9E40	鹀	⿰巫鸟
+U+8BEC	诬	⿰讠巫
