@@ -1,5 +1,5 @@
 # 豪
-U+8C6A	豪	⿱〓豕
+U+8C6A	豪	⿱{hkcs-4eac-v01}豕
 
 # hkcs_m8c6a
 U+512B	儫	⿰亻豪
