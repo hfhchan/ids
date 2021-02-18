@@ -1,0 +1,123 @@
+# 𠯑
+U+20BD1	𠯑	⿱氏口
+
+# hkcs_m20bd1
+U+4BFA	䯺	⿱髟𠯑
+U+26BDA	𦯚	⿱艹𠯑
+U+284C8	𨓈	⿺辶𠯑
+U+294B2	𩒲	⿰𠯑頁
+U+2A05D	𪁝	⿰𠯑鳥
+
+# hkcs_m20bd1-p02-s00
+U+6870	桰	⿰木𠯑
+U+92BD	銽	⿰金𠯑
+U+46E1	䛡	⿰言𠯑
+U+20232	𠈲	⿰亻𠯑
+U+20CC2	𠳂	⿰口𠯑
+U+21736	𡜶	⿰女𠯑
+U+22B38	𢬸	⿰扌𠯑
+U+23D20	𣴠	⿰氵𠯑
+U+247B3	𤞳	⿰犭𠯑
+U+251A0	𥆠	⿰目𠯑
+U+25671	𥙱	⿰示𠯑
+U+257B8	𥞸	⿰禾𠯑
+U+2657E	𦕾	⿰耳𠯑
+U+272E3	𧋣	⿰虫𠯑
+U+29A4E	𩩎	⿰骨𠯑
+U+2A622	𪘢	⿰齒𠯑
+U+2C990	𬦐	⿺走𠯑
+
+# hkcs_m20bd1-v01-p01-s00
+U+522E	刮	⿰{hkcs-20bd1-v01}刂
+U+8F9E	辞	⿰{hkcs-20bd1-v01}辛
+U+9822	頢	⿰{hkcs-20bd1-v01}頁
+U+9D30	鴰	⿰{hkcs-20bd1-v01}鳥
+U+23073	𣁳	⿰{hkcs-20bd1-v01}斗
+
+# hkcs_m20bd1-v01-p02-s00
+U+54B6	咶	⿰口{hkcs-20bd1-v01}
+U+62EC	括	⿰扌{hkcs-20bd1-v01}
+U+6D3B	活	⿰氵{hkcs-20bd1-v01}
+U+7D6C	絬	⿰糸{hkcs-20bd1-v01}
+U+8052	聒	⿰耳{hkcs-20bd1-v01}
+U+86DE	蛞	⿰虫{hkcs-20bd1-v01}
+U+8A71	話	⿰言{hkcs-20bd1-v01}
+U+8D8F	趏	⿺走{hkcs-20bd1-v01}
+U+9002	适	⿺辶{hkcs-20bd1-v01}
+U+98B3	颳	⿺風{hkcs-20bd1-v01}
+U+34C9	㓉	⿰冫{hkcs-20bd1-v01}
+U+4028	䀨	⿰目{hkcs-20bd1-v01}
+U+47EF	䟯	⿰𧾷{hkcs-20bd1-v01}
+U+499A	䦚	⿵門{hkcs-20bd1-v01}
+U+4BCF	䯏	⿰骨{hkcs-20bd1-v01}
+U+21BE2	𡯢	⿺尢{hkcs-20bd1-v01}
+U+269E0	𦧠	⿰帛{hkcs-20bd1-v01}
+U+26A2F	𦨯	⿰舟{hkcs-20bd1-v01}
+U+29219	𩈙	⿰面{hkcs-20bd1-v01}
+U+2A5FD	𪗽	⿰齒{hkcs-20bd1-v01}
+
+# hkcs_m20bd1-v01-p02-s01
+U+4F78	佸	⿰亻{hkcs-20bd1-v01}
+U+59E1	姡	⿰女{hkcs-20bd1-v01}
+U+79F3	秳	⿰禾{hkcs-20bd1-v01}
+U+4106	䄆	⿰示{hkcs-20bd1-v01}
+U+48F6	䣶	⿰酉{hkcs-20bd1-v01}
+
+# hkcs_m20bd1-v01-p04-s00
+U+7B48	筈	⿱竹{hkcs-20bd1-v01}
+U+9AFA	髺	⿱髟{hkcs-20bd1-v01}
+U+44B7	䒷	⿱艹{hkcs-20bd1-v01}
+
+# hkcs_m92bd
+U+2290C	𢤌	⿱銽心
+U+26609	𦘉	⿱銽耳
+
+# hkcs_m92bd-v01
+U+61D6	懖	⿱{hkcs-92bd-v01}心
+U+265FE	𦗾	⿱{hkcs-92bd-v01}耳
+
+# hkcs_m23d20
+U+28D96	𨶖	⿵門𣴠
+
+# hkcs_m522e
+U+20D6F	𠵯	⿰口刮
+
+# hkcs_m9822
+U+2406A	𤁪	⿰氵頢
+
+# hkcs_m62ec
+U+8440	葀	⿱艹括
+U+20E13	𠸓	⿰口括
+U+30137	𰄷	⿰刀括
+
+# hkcs_m6d3b
+U+843F	萿	⿱艹活
+U+95CA	闊	⿵門活
+
+# hkcs_m95ca
+U+24103	𤄃	⿰氵闊
+
+# hkcs_m8052
+U+22872	𢡲	⿱聒心
+
+# hkcs_m8a71
+U+2BB03	𫬃	⿰口話
+
+# hkcs_m9002
+U+30516	𰔖	⿰扌适
+
+# hkcs_m499a
+U+6FF6	濶	⿰氵䦚
+
+# hkcs_m26a2f-p02-s00
+U+23F70	𣽰	⿰氵𦨯
+
+# Simplifications
+U+2CC64	𬱤	⿰𠯑页
+
+U+2CC60	𬱠	⿰{hkcs-20bd1-v01}页
+U+9E39	鸹	⿰{hkcs-20bd1-v01}鸟
+U+8BDD	话	⿰讠{hkcs-20bd1-v01}
+U+2CE84	𬺄	⿰齿{hkcs-20bd1-v01}
+
+U+9614	阔	⿵门活
