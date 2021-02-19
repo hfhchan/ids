@@ -1,0 +1,8 @@
+# hkcs_m563c-c01
+U+563C	嘼	⿱{hkcs-563c-c01}口
+U+9F09	鼉	⿱{hkcs-563c-c01}黽
+U+2755B	𧕛	⿱{hkcs-563c-c01}䖵
+U+9F0D	鼍	⿱{hkcs-563c-c01}黾
+
+# hkcs_m563c
+U+7378	獸	⿰嘼犬
