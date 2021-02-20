@@ -78,7 +78,7 @@ U+2A1D7	𪇗	⿱穀鳥
 U+702B	瀫	⿰氵縠
 
 # Simplifications
-U+2CE2C	𬸬	𪇄	⿰⿱{hkcs-23a8a-c01}卵鸟
-U+2B715	𫜕	𪍠	⿱𣪊麦
-U+6BC2	毂	轂	⿹𣪊车
-U+2C1AE	𬆮	鷇	⿹𣪊鸟
+U+2CE2C	𬸬	⿰⿱{hkcs-23a8a-c01}卵鸟
+U+2B715	𫜕	⿱𣪊麦
+U+6BC2	毂	⿹𣪊车
+U+2C1AE	𬆮	⿹𣪊鸟
