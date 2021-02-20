@@ -20,4 +20,4 @@ U+27AEC	𧫬	⿸𠩺言
 U+2711A	𧄚	⿱艹釐
 
 # Simplifications
-U+2D90E	𭤎	⿸𠩺來
+U+2D90E	𭤎	⿸𠩺来
