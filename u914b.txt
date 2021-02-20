@@ -113,10 +113,10 @@ U+2CA0E	𬨎	⿰车酋
 U+4CA1	䲡	⿰鱼酋
 
 # Simplifications (尊)
-U+2B704	𫜄	鷷	尊鸟
-U+2C922	𬤢	譐	讠尊
-U+28C54	𨱔	鐏	钅尊
-U+9CDF	鳟	鱒	鱼尊
+U+2B704	𫜄	⿰尊鸟
+U+2C922	𬤢	⿰讠尊
+U+28C54	𨱔	⿰钅尊
+U+9CDF	鳟	⿰鱼尊
 
 # Simplifications (郑)
 U+90D1	郑	⿰关阝
