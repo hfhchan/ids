@@ -1,0 +1,44 @@
+# hkcs_m9ce5-c01-p03-s00
+U+9CE5	鳥	⿹{hkcs-9ce5-c01}灬
+
+# hkcs_m9ce5-c01-p03-s01
+U+689F	梟	⿱{hkcs-9ce5-c01}木
+U+9CEC	鳬	⿱{hkcs-9ce5-c01}𠘧
+U+2A00B	𪀋	⿱{hkcs-9ce5-c01}甲
+U+2A0A7	𪂧	⿱{hkcs-9ce5-c01}宛
+
+# hkcs_m9ce5-c01-p03-s02
+U+88CA	裊	⿱{hkcs-9ce5-c01}衣
+
+# hkcs_m689f-p01-s00
+U+9121	鄡	⿰梟阝
+
+# hkcs_m689f-p02-s00
+U+5604	嘄	⿰口梟
+U+87C2	蟂	⿰虫梟
+U+213ED	𡏭	⿰土梟
+U+2183F	𡠿	⿰女梟
+U+22CDA	𢳚	⿰扌梟
+U+24854	𤡔	⿰犭梟
+U+2527C	𥉼	⿰目梟
+
+# Source Code Separation / Duplicate
+U+2048E	𠒎	鳬	~⿱{hkcs-9ce5-c01}𠘧
+
+# hkcs_m88ca
+U+5B1D	嬝	⿰女裊
+U+2102E	𡀮	⿰口裊
+U+21469	𡑩	⿰土裊
+U+22D91	𢶑	⿰扌裊
+U+2619A	𦆚	⿰糸裊
+U+274AC	𧒬	⿰虫裊
+
+# Variant
+U+465A	䙚	⿱鳥衣
+
+# Simplifications (u9e1f)
+U+9E1F	鸟	⿹{hkcs-9e1f-c01}一
+U+67AD	枭	⿱{hkcs-9e1f-c01}木
+
+U+8885	袅	⿱{hkcs-9e1f-c01}衣
+U+2BF72	𫽲	⿰扌袅
