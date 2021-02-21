@@ -1,0 +1,79 @@
+# 隋
+U+968B	隋	⿰阝{hkcs-968b-c01}
+
+# hkcs_m968b
+U+5AF7	嫷	⿰女隋
+U+619C	憜	⿰忄隋
+U+64B1	撱	⿰扌隋
+U+6A62	橢	⿰木隋
+U+470F	䜏	⿰言隋
+U+4710	䜐	⿱隋言
+U+4750	䝐	⿰豕隋
+U+48AB	䢫	⿺辶隋
+U+4C8A	䲊	⿰魚隋
+U+21426	𡐦	⿰土隋
+U+23FC2	𣿂	⿰氵隋
+U+246E9	𤛩	⿰牛隋
+U+2486A	𤡪	⿰犭隋
+U+25AB9	𥪹	⿰立隋
+U+2774D	𧝍	⿰衤隋
+U+28B0D	𨬍	⿰金隋
+
+# hkcs_m968b-c01-p01-s00
+U+6BFB	毻	⿰{hkcs-968b-c01}毛
+U+24B68	𤭨	⿰{hkcs-968b-c01}瓦
+
+# hkcs_m968b-c01-p02-s00
+U+5836	堶	⿰土{hkcs-968b-c01}
+U+5AA0	媠	⿰女{hkcs-968b-c01}
+U+60F0	惰	⿰忄{hkcs-968b-c01}
+U+6955	楕	⿰木{hkcs-968b-c01}
+U+968B	隋	⿰阝{hkcs-968b-c01}
+U+9C16	鰖	⿰魚{hkcs-968b-c01}
+U+3EDF	㻟	⿰王{hkcs-968b-c01}
+U+4643	䙃	⿰衤{hkcs-968b-c01}
+U+493B	䤻	⿰金{hkcs-968b-c01}
+U+4B49	䭉	⿰飠{hkcs-968b-c01}
+U+4BDD	䯝	⿰骨{hkcs-968b-c01}
+U+2140F	𡐏	⿱⿰亻{hkcs-968b-c01}土
+U+254FF	𥓿	⿰石{hkcs-968b-c01}
+U+256A8	𥚨	⿰示{hkcs-968b-c01}
+U+26766	𦝦	⿰⺼{hkcs-968b-c01}
+U+27913	𧤓	⿰角{hkcs-968b-c01}
+U+27A6D	𧩭	⿰言{hkcs-968b-c01}
+U+27C6B	𧱫	⿰豕{hkcs-968b-c01}
+U+28C95	𨲕	⿰镸{hkcs-968b-c01}
+U+2BAB3	𫪳	⿰口{hkcs-968b-c01}
+
+# hkcs_m968b-c01-p02-s01
+U+3A0A	㨊	⿰扌{hkcs-968b-c01}
+U+23DFF	𣷿	⿰氵{hkcs-968b-c01}
+U+24303	𤌃	⿰火{hkcs-968b-c01}
+
+# hkcs_m968b-p03-s00
+U+58AE	墮	⿱隋土
+U+5D9E	嶞	⿱隋山
+U+96B3	隳	⿳隋人⺗
+U+3BD0	㯐	⿱隋木
+U+21859	𡡙	⿱隋女
+U+22862	𢡢	⿱隋心
+U+29036	𩀶	⿱隋隹
+U+2A17F	𪅿	⿱隋鳥
+
+# hkcs_m60f0
+U+58AF	墯	⿱惰土
+
+# hkcs_m58ae
+U+210CF	𡃏	⿰口墮
+U+237C1	𣟁	⿰木墮
+U+25DB4	𥶴	⿱竹墮
+
+# Simplifications (陏)
+U+5815	堕	⿱陏土
+U+692D	椭	⿰木陏
+U+2E960	𮥠	⿳陏人⺗
+U+30D87	𰶇	⿰讠陏
+
+# Simplifications (hkcs-968b-c01)
+U+30F96	𰾖	⿰钅{hkcs-968b-c01}
+U+2CCC5	𬳅	⿰饣{hkcs-968b-c01}
