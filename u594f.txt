@@ -1,0 +1,18 @@
+# 奏
+U+594F	奏	⿱𡗗天
+
+# hkcs_m594f
+U+25BEA	𥯪	⿱竹奏
+
+# hkcs_m594f-p02-s00
+U+6E4A	湊	⿰氵奏
+U+2582C	𥠬	⿰禾奏
+U+27C6A	𧱪	⿰豕奏
+U+280A1	𨂡	⿰𧾷奏
+U+28A2F	𨨯	⿰金奏
+U+2A0C6	𪃆	⿰鳥奏
+U+2A26E	𪉮	⿰鹵奏
+
+# Simplifications
+U+2CB5F	𬭟	⿰钅奏
+U+2CE37	𬸷	⿰卤奏
