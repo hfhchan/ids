@@ -1,0 +1,19 @@
+# 事
+U+4E8B	事	事
+
+# Variant
+U+4E8A	亊	事
+
+# hkcs_m4e8b
+U+525A	剚	⿰事刂
+U+2011C	𠄜	⿰事余
+U+2086F	𠡯	⿰事力
+U+20878	𠡸	⿱事力
+
+# hkcs_m4e8b-p02-s00
+U+5033	倳	⿰亻事
+U+4B44	䭄	⿰飠事
+U+289EB	𨧫	⿰金事
+
+# Simplifications
+U+2CB51	𬭑	⿰钅事
