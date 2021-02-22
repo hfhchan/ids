@@ -1,0 +1,39 @@
+# 袞
+U+889E	袞	⿳亠㕣𧘇
+
+# Source Code Separation / Duplicate
+U+886E	衮	袞
+U+84D8	蓘	蔉
+U+78D9	磙	𥕦
+U+6EDA	滚	滾
+U+2837D	𨍽	𨎊
+
+# hkcs_m889e
+U+8509	蔉	⿱艹袞
+
+# hkcs_m889e-p01-s00
+U+207AC	𠞬	⿰袞刂
+
+# hkcs_m889e-p02-s00
+U+3665	㙥	⿰土袞
+U+465B	䙛	⿰衤袞
+U+20F53	𠽓	⿰口袞
+U+25410	𥐐	⿰短袞
+U+25566	𥕦	⿰石袞
+U+26123	𦄣	⿰糸袞
+U+27E2B	𧸫	⿰員袞
+U+2C2BC	𬊼	⿰火袞
+
+# hkcs_m889e-p02-s01
+U+6EFE	滾	⿰氵袞
+U+3A30	㨰	⿰扌袞
+U+4707	䜇	⿰言袞
+U+21EE8	𡻨	⿰山袞
+U+227E6	𢟦	⿰忄袞
+U+2838A	𨎊	⿰車袞
+
+# Simplifications
+U+2BB19	𫬙	⿰员袞
+
+# hkcs_m6efe
+U+2107A	𡁺	⿰口滾
