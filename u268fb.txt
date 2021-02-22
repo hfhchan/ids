@@ -1,0 +1,25 @@
+# 𦣻
+U+268FB	𦣻	𦣻
+
+# hkcs_m268fb
+U+5961	奡	⿱𦣻夰
+U+621B	戛	⿱𦣻戈
+U+29B48	𩭈	⿱髟𦣻
+
+# hkcs_m268fb-p02-s00
+U+811C	脜	⿰⺼𦣻
+
+# hkcs_m268fb-p02-s01
+U+205CD	𠗍	⿰冫𦣻
+
+# hkcs_m5961
+U+20369	𠍩	⿰亻奡
+U+23F40	𣽀	⿰氵奡
+U+248AB	𤢫	⿰犭奡
+
+# hkcs_m621b
+U+560E	嘎	⿰口戛
+U+2CC9A	𬲚	⿰飠戛
+
+# Simplifications
+U+2CCCE	𬳎	⿰饣戛
