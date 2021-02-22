@@ -1,0 +1,15 @@
+# 臥
+U+81E5	臥	⿰臣人
+
+# Source Code Separation
+U+5367	卧	臥
+
+# hkcs_m81e5
+U+26C7D	𦱽	⿱艹臥
+
+# hkcs_m81e5-p03-s00
+U+4599	䖙	⿱臥虒
+U+4B46	䭆	⿱臥食
+U+20978	𠥸	⿱臥㔸
+U+271EC	𧇬	⿱臥虎
+U+27A2D	𧨭	⿱臥言
