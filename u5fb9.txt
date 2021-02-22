@@ -1,0 +1,26 @@
+# hkcs_m5fb9-v01-p02-s00
+U+5FB9	徹	⿰彳{hkcs-5fb9-v01}
+U+64A4	撤	⿰扌{hkcs-5fb9-v01}
+U+6F88	澈	⿰氵{hkcs-5fb9-v01}
+U+77AE	瞮	⿰目{hkcs-5fb9-v01}
+U+8F4D	轍	⿰車{hkcs-5fb9-v01}
+U+3B1A	㬚	⿰日{hkcs-5fb9-v01}
+U+3BD9	㯙	⿰木{hkcs-5fb9-v01}
+U+4486	䒆	⿰舟{hkcs-5fb9-v01}
+U+20F80	𠾀	⿰口{hkcs-5fb9-v01}
+U+21860	𡡠	⿰女{hkcs-5fb9-v01}
+U+24889	𤢉	⿰犭{hkcs-5fb9-v01}
+U+26144	𦅄	⿰糸{hkcs-5fb9-v01}
+U+2651E	𦔞	⿰耒{hkcs-5fb9-v01}
+U+29352	𩍒	⿰革{hkcs-5fb9-v01}
+
+# hkcs_m5fb9-v01-p02-s01
+U+2814A	𨅊	⿰𧾷{hkcs-5fb9-v01}
+
+# hkcs_m5fb9
+U+52F6	勶	⿱徹力
+U+24072	𤁲	⿰氵徹
+
+# Simplifications
+U+5F7B	彻	⿰彳切
+U+8F99	辙	⿰车{hkcs-5fb9-v01}
