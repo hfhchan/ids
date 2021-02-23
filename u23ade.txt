@@ -1,0 +1,11 @@
+# 𣫞
+U+23ADE	𣫞	⿰{hkcs-23ade-c01}殳
+
+# hkcs_m23ade
+U+27B99	𧮙	⿱𣫞言
+U+2A387	𪎇	⿱𣫞麥
+U+2A3B2	𪎲	⿱𣫞麻
+
+# hkcs_m23ade-p03-s00
+U+7CF3	糳	⿱𣫞米
+U+947F	鑿	⿱𣫞金
