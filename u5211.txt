@@ -1,0 +1,26 @@
+# 刑
+U+5211	刑	⿰开刂
+
+# hkcs_m5211
+U+834A	荊	⿱艹刑
+
+# Source Code Separation
+U+8346	荆	荊
+
+# hkcs_m5211-p02-s00
+U+4F80	侀	⿰亻刑
+U+784E	硎	⿰石刑
+U+9276	鉶	⿰金刑
+U+38DC	㣜	⿰彳刑
+U+3B62	㭢	⿰木刑
+U+21707	𡜇	⿰女刑
+U+21DAD	𡶭	⿰山刑
+
+# hkcs_m5211-p03-s00
+U+578B	型	⿱刑土
+
+# hkcs_m578b
+U+2356D	𣕭	⿰木型
+
+# Simplifications
+U+94CF	铏	⿰钅刑
