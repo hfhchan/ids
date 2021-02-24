@@ -92,3 +92,13 @@ U+27169	𧅩	⿱艹𢸧
 # Simplifications
 U+31280	𱊀	⿰坴鸟
 U+311F6	𱇶	⿰鱼坴
+
+# Simplifications (执/埶)
+U+52BF	势	⿱执力
+U+4EB5	亵	⿳亠执𧘇
+
+# Simplifications (艺/藝)
+U+827A	艺	⿱艹乙
+U+5453	呓	⿰口艺
+U+30CF5	𰳵	⿰衤艺
+U+30D56	𰵖	⿰讠艺
