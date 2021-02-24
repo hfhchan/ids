@@ -1,0 +1,15 @@
+# 喪
+U+55AA	喪	喪
+
+# hkcs_m55aa
+U+26147	𦅇	⿰糸喪
+U+30DD1	𰷑	⿰貝喪
+
+# Simplifications
+U+4E27	丧	丧
+U+2B12A	𫄪	⿰纟丧
+
+# Variants
+U+462E	䘮	喪
+U+2D22C	𭈬	喪
+U+20DD4	𠷔	喪
