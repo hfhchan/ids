@@ -28,7 +28,7 @@ U+2A5EA	𪗪	⿰齒司
 U+2CD34	𬴴	⿰鬲司
 
 # hkcs_m53f8-p02-s01
-U+55E3	嗣	⿰嗣司
+U+55E3	嗣	⿰{hkcs-55e3-c01}司
 U+2EAF4	𮫴	⿰魚司
 
 # hkcs_m53f8-p03-s00
@@ -37,7 +37,7 @@ U+46D0	䛐	⿱司言
 U+2BE19	𫸙	⿱司廾
 
 # Simplifications
-U+2C88A	𬢊	⿰司见
 U+8BCD	词	⿰讠司
 U+9972	饲	⿰饣司
+U+2C88A	𬢊	⿰司见
 U+2CE7F	𬹿	⿰齿司
