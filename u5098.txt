@@ -1,0 +1,8 @@
+# 傘
+U+5098	傘	傘
+
+# hkcs_m5098
+U+2C82E	𬠮	⿰虫傘
+
+# Simplifications
+U+4F1E	伞	伞
