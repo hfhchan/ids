@@ -1,0 +1,58 @@
+# hkcs_m56ca-c01
+U+56CA	囊	⿳{hkcs-56ca-c01}{hkcs-56ca-c02}{hkcs-56ca-c03}
+U+6A50	橐	⿳{hkcs-56ca-c01}石{hkcs-56ca-c04}
+U+6ADC	櫜	⿳{hkcs-56ca-c01}咎{hkcs-56ca-c04}
+U+87D7	蟗	⿳{hkcs-56ca-c01}出虫
+U+8839	蠹	⿳{hkcs-56ca-c01}石䖵
+U+3BF1	㯱	⿳{hkcs-56ca-c01}缶{hkcs-56ca-c04}
+U+3BFB	㯻	⿳{hkcs-56ca-c01}豕{hkcs-56ca-c04}
+U+3C06	㰆	⿳{hkcs-56ca-c01}非{hkcs-56ca-c04}
+
+# hkcs_m56ca
+U+513E	儾	⿰亻囊
+U+56D4	囔	⿰口囊
+U+652E	攮	⿰扌囊
+U+6B1C	欜	⿰木囊
+U+7062	灢	⿰氵囊
+U+9962	饢	⿰飠囊
+U+9F49	齉	⿰鼻囊
+U+3682	㚂	⿰土囊
+U+21FDD	𡿝	⿰山囊
+U+225A7	𢖧	⿰彳囊
+U+255FE	𥗾	⿰石囊
+U+26203	𦈃	⿰糸囊
+U+268D8	𦣘	⿰⺼囊
+U+2717A	𧅺	⿱艹囊
+U+27592	𧖒	⿰虫囊
+U+277D8	𧟘	⿰衤囊
+U+28CC6	𨳆	⿰镸囊
+U+29C09	𩰉	⿱髟囊
+U+2B193	𫆓	⿰耳囊
+U+2B1C4	𫇄	⿰育囊
+U+2BBDA	𫯚	⿰多囊
+U+2C972	𬥲	⿰貝囊
+U+2C9DF	𬧟	⿰𧾷囊
+U+2CB25	𬬥	⿰金囊
+
+# hkcs_m6a50-p02-s00
+U+22E28	𢸨	⿰扌橐
+U+2752C	𧔬	⿰虫橐
+U+299D0	𩧐	⿰馬橐
+
+# hkcs_m3bf1
+U+2759A	𧖚	⿱㯱䖵
+
+# hkcs_m3c06
+U+2383B	𣠻	⿰木㰆
+
+# Variant
+U+56A2	嚢	囊	~
+
+# Simplifications
+U+9995	馕	⿰饣囊
+U+2C980	𬦀	⿰贝囊
+U+2CD0E	𬴎	⿰马橐
+
+# Second-stage Simplifications
+U+30009	𰀉	𰀉
+U+304CC	𰓌	⿰扌𰀉
