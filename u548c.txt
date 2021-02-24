@@ -1,0 +1,14 @@
+# 和
+U+548C	和	⿰禾口
+
+# hkcs_m548c
+U+4FF0	俰	⿰亻和
+U+555D	啝	⿰口和
+U+8402	萂	⿱艹和
+U+28A1B	𨨛	⿰金和
+
+# hkcs_m548c-p03-s00
+U+60D2	惒	⿱和心
+
+# Simplifications
+U+2B4FC	𫓼	⿰钅和
