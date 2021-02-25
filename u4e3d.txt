@@ -61,6 +61,15 @@ U+2DCFA	𭳺	灑	⿰氵𪋘
 U+2E25F	𮉟	纚	⿰糸𪋘
 U+27957	𧥗	𧥖	⿰角𪋘
 
+# Variant (䴡)
+U+4D21	䴡	麗	䴡
+U+2E811	𮠑	酈	⿰䴡阝
+U+2A1FE	𪇾	鸝	⿰䴡鳥
+U+2041A	𠐚	儷	⿰亻䴡
+U+2D4AD	𭒭	孋	⿰女䴡
+U+240A2	𤂢	灑	⿰氵䴡
+U+2EA9C	𮪜	驪	⿰馬䴡
+
 # Simplifications
 U+4FEA	俪	⿰亻丽
 U+5F68	彨	⿰丽彡
