@@ -1,5 +1,5 @@
 # 幾
-U+5E7E	幾	⿹〓人
+U+5E7E	幾	⿹{hkcs-5e7e-c01}人
 
 # hkcs_m5e7e
 U+386E	㡮	⿰幾气
@@ -9,14 +9,14 @@ U+285C2	𨗂	⿺辶幾
 U+29D2A	𩴪	⿱幾鬼
 
 # hkcs_m5e7e-c01-c01
-U+29D06	𩴆	⿹〓鬼
+U+29D06	𩴆	⿹{hkcs-5e7e-c01}鬼
 
 # hkcs_m5e7e-c01-p05-s01
-U+757F	畿	⿹〓田
+U+757F	畿	⿹{hkcs-5e7e-c01}田
 
 # hkcs_m5e7e-c01-p05-s02
-U+273B6	𧎶	⿹〓虫
-U+275C7	𧗇	⿹〓血
+U+273B6	𧎶	⿹{hkcs-5e7e-c01}虫
+U+275C7	𧗇	⿹{hkcs-5e7e-c01}血
 
 # hkcs_m5e7e-p02-s00
 U+50DF	僟	⿰亻幾
