@@ -1,0 +1,27 @@
+# 辡
+U+8FA1	辡	⿰辛辛
+
+# hkcs_m8fa1
+U+21048	𡁈	⿰口辡
+U+2402B	𤀫	⿰氵辡
+
+# hkcs_m8fa1-p05-s00
+U+8FA6	辦	⿲辛力辛
+U+8FA7	辧	⿲辛刀辛
+U+8FA8	辨	⿲辛{hkcs-5202-v01}辛
+U+8FAF	辯	⿲辛言辛
+U+3D77	㵷	⿲辛氵辛
+
+# hkcs_m8fa1-p05-s01
+U+8FAC	辬	⿲辛文辛
+U+8FAE	辮	⿲辛糸辛
+U+399A	㦚	⿲辛心辛
+U+3E24	㸤	⿲辛片辛
+U+2530A	𥌊	⿲辛目辛
+
+# hkcs_m8faf
+U+4278	䉸	⿱竹辯
+
+# Simplifications
+U+8FA9	辩	⿲辛讠辛
+U+8FAB	辫	⿲辛纟辛
