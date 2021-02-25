@@ -79,6 +79,9 @@ U+2EB76	𮭶	麗
 U+2EB77	𮭷	麗
 U+2EB79	𮭹	麗
 
+U+20A95	𠪕	麗	𠪕
+U+203CA	𠏊	儷	⿰亻𠪕
+
 # Simplifications
 U+4FEA	俪	⿰亻丽
 U+5F68	彨	⿰丽彡
