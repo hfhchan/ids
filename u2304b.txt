@@ -1,0 +1,41 @@
+# 𣁋
+U+2304B	𣁋	⿹{hkcs-2304b-c01}儿
+
+# Duplicate
+U+22F38	𢼸	𣁋
+
+# hkcs_m2304b-c01-p0205-s00
+U+5E51	幑	⿰彳⿹{hkcs-2304b-c01}巾
+
+# hkcs_m2304b-c01-p0205-s03
+U+5FBE	徾	⿰彳⿹{hkcs-2304b-c01}言
+
+# hkcs_m2304b-c01-p05-s01
+U+22FB0	𢾰	⿹{hkcs-2304b-c01}糸
+
+# hkcs_m2304b-c01-p05-s03
+U+2A45B	𪑛	⿹{hkcs-2304b-c01}黑
+
+# hkcs_m2304b-p02-s00
+U+5ABA	媺	⿰女𣁋
+U+6EA6	溦	⿰氵𣁋
+U+2031D	𠌝	⿰亻𣁋
+U+24A09	𤨉	⿰王𣁋
+U+2B3ED	𫏭	⿰身𣁋
+
+# hkcs_m22fb0-p02-s00
+U+5FBD	徽	⿰彳𢾰
+U+24A96	𤪖	⿰王𢾰
+U+261AE	𦆮	⿰糸𢾰
+
+# hkcs_m2a45b-p02-s00
+U+9EF4	黴	⿰彳𪑛
+
+# hkcs_m9ef4
+U+2DF3C	𭼼	⿸疒黴
+
+# hkcs_m5aba
+U+26FA1	𦾡	⿱艹媺
+
+# Variant
+U+2183E	𡠾	⿰女⿹{hkcs-2304b-c01}口
