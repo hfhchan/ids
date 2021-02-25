@@ -70,6 +70,11 @@ U+2D4AD	𭒭	孋	⿰女䴡
 U+240A2	𤂢	灑	⿰氵䴡
 U+2EA9C	𮪜	驪	⿰馬䴡
 
+# Variant (Other)
+U+21513	𡔓	𡔉
+U+28400	𨐀	𨏽
+U+2185C	𡡜	婯
+
 # Simplifications
 U+4FEA	俪	⿰亻丽
 U+5F68	彨	⿰丽彡
