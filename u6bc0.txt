@@ -1,0 +1,44 @@
+# 毀
+U+6BC0	毀	⿰{hkcs-6bc0-c01}殳
+
+# Source Code Separation
+U+6BC1	毁	毀
+U+9667	陧	隉
+
+# hkcs_m6bc0
+U+4963	䥣	⿱毀金
+U+21895	𡢕	⿱毀女
+
+# hkcs_m6bc0-c01
+U+6BC0	毀	⿰{hkcs-6bc0-c01}殳
+U+22F8C	𢾌	⿰{hkcs-6bc0-c01}攴
+
+# hkcs_m6bc0-p02-s00
+U+6A93	檓	⿰木毀
+U+71EC	燬	⿰火毀
+U+8B6D	譭	⿰言毀
+U+21482	𡒂	⿰土毀
+U+218B6	𡢶	⿰女毀
+U+22D99	𢶙	⿰扌毀
+U+24ECF	𤻏	⿸疒毀
+U+25F39	𥼹	⿰米毀
+
+# hkcs_m6bc0-p03-s00
+U+3A53	㩓	⿱毀手
+U+25F42	𥽂	⿱毀米
+
+# hkcs_mcdp-8db4
+U+2A47A	𪑺	⿰黑{hkcs-6bc0-c01}
+
+# hkcs_mcdp-8db4-p02-s00
+U+9689	隉	⿰阝{hkcs-6bc0-c01}
+U+3DD0	㷐	⿰火{hkcs-6bc0-c01}
+U+46FC	䛼	⿰言{hkcs-6bc0-c01}
+U+23555	𣕕	⿰木{hkcs-6bc0-c01}
+
+# hkcs_m25f42
+U+25E0B	𥸋	⿱竹𥽂
+
+# 𢾌
+U+22F8C	𢾌	⿰{hkcs-6bc0-c01}攴
+U+2189D	𡢝	⿲女{hkcs-6bc0-c01}攵
