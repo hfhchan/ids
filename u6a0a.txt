@@ -1,0 +1,27 @@
+# 樊
+U+6A0A	樊	⿱棥大
+
+# hkcs_m6a0a
+U+210CE	𡃎	⿰口樊
+U+2531E	𥌞	⿰目樊
+
+# hkcs_m6a0a-p01-s00
+U+4AF6	䫶	⿰樊頁
+U+2789C	𧢜	⿰樊見
+U+287C5	𨟅	⿰樊阝
+
+# hkcs_m6a0a-p03-s00
+U+6500	攀	⿱樊手
+U+792C	礬	⿱樊石
+U+881C	蠜	⿱樊虫
+U+287C4	𨟄	⿱樊邑
+
+# hkcs_m6a0a-p03-s01
+U+466A	䙪	⿱樊衣
+
+# hkcs_m6500
+U+897B	襻	⿰衤攀
+U+947B	鑻	⿰金攀
+
+# Simplifications
+U+2B5BA	𫖺	⿰樊页
