@@ -46,7 +46,7 @@ U+74C4	瓄	⿰王𧶠
 U+8B80	讀	⿰言𧶠
 U+97C7	韇	⿰革𧶠
 
-# Simplifications
+# Simplifications (卖)
 U+691F	椟	⿰木卖
 U+6E0E	渎	⿰氵卖
 U+724D	牍	⿰片卖
@@ -65,3 +65,9 @@ U+30C50	𰱐	⿱艹卖
 U+30D94	𰶔	⿰谷卖
 U+30E8C	𰺌	⿰车卖
 U+31077	𱁷	⿰革卖
+
+# Simplifications (売)
+U+6D9C	涜	⿰氵売
+U+3E3F	㸿	⿰牛売
+U+7D9A	続	⿰糸売
+U+8AAD	読	⿰言売
