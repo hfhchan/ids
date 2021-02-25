@@ -75,6 +75,10 @@ U+21513	𡔓	𡔉
 U+28400	𨐀	𨏽
 U+2185C	𡡜	婯
 
+U+2EB76	𮭶	麗
+U+2EB77	𮭷	麗
+U+2EB79	𮭹	麗
+
 # Simplifications
 U+4FEA	俪	⿰亻丽
 U+5F68	彨	⿰丽彡
