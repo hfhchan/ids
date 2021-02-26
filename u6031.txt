@@ -28,5 +28,9 @@ U+22DB0	𢶰	⿰扌葱
 U+24A7F	𤩿	⿰王葱
 U+2B4D1	𫓑	⿰金葱
 
+U+25CFA	𥳺	⿱竹揔
+
 # Simplifications
+U+2C90B	𬤋	⿰讠怱
+U+2CB65	𬭥	⿰钅怱
 U+30B30	𰬰	⿰纟怱
