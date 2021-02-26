@@ -65,6 +65,10 @@ U+391B	㤛	⿰忄任
 U+3CDD	㳝	⿰氵任
 
 # Simplifications
+U+7EB4	纴	⿰纟壬
+U+996A	饪	⿰饣壬
+U+2CB2F	𬬯	⿰钅壬
+
 U+8D41	赁	⿱任贝
 U+2CE0A	𬸊	⿱任鸟
 U+2C8EF	𬣯	⿰讠任
