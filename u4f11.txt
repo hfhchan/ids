@@ -29,3 +29,6 @@ U+6077	恷	⿱休心
 U+70CB	烋	⿱休灬
 U+24222	𤈢	⿱休火
 U+2A02A	𪀪	⿱休鳥
+
+# Simplifications
+U+9E3A	鸺	⿰休鸟
