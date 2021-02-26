@@ -64,6 +64,9 @@ U+9901	餁	⿰飠任
 U+391B	㤛	⿰忄任
 U+3CDD	㳝	⿰氵任
 
+# hkcs_m98ea
+U+243FC	𤏼	⿱飪火
+
 # Simplifications
 U+7EB4	纴	⿰纟壬
 U+996A	饪	⿰饣壬
