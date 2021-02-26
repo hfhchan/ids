@@ -1,6 +1,9 @@
 # 具
 U+5177	具	⿱目{hkcs-20b1e-v01}
 
+# Source Code Separation
+U+5036	倶	俱
+
 # hkcs_m5177
 U+4FF1	俱	⿰亻具
 U+6907	椇	⿰木具
