@@ -1,0 +1,18 @@
+# 史
+U+53F2	史	史
+
+# Variant
+U+355C	㕜	⿱中又
+
+# hkcs_m53f2
+U+2909D	𩂝	⿱雨史
+
+# hkcs_m53f2-p02-s00
+U+9242	鉂	⿰金史
+U+99DB	駛	⿰馬史
+U+3CCF	㳏	⿰氵史
+U+2544F	𥑏	⿰石史
+U+2DA21	𭨡	⿰書史
+
+# Simplifications
+U+9A76	驶	⿰马史
