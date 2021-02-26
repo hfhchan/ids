@@ -1,0 +1,27 @@
+# 𢛳
+U+226F3	𢛳	⿱直心
+
+# Source Code Separation
+U+5FB3	徳	德
+
+# Unifiable
+U+3941	㥁	𢛳
+
+# Variant
+U+8074	聴	⿰耳𢛳
+U+5EF0	廰	⿸广聴
+
+# hkcs_m226f3-p02-s00
+U+5FB7	德	⿰彳𢛳
+U+807D	聽	⿰⿱耳𡈼𢛳
+U+3BD6	㯖	⿰木𢛳
+U+252B8	𥊸	⿰目𢛳
+U+2B8DC	𫣜	⿰亻𢛳
+U+2D899	𭢙	⿰扌𢛳
+U+2DC96	𭲖	⿰氵𢛳
+
+# hkcs_m5fb7
+U+25329	𥌩	⿰目德
+
+# hkcs_m807d
+U+5EF3	廳	⿸广聽
