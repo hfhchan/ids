@@ -1,0 +1,39 @@
+# 微
+U+5FAE	微	⿵{hkcs-5fae-v01}儿
+
+# hkcs_m5fae
+U+5DB6	嶶	⿱山微
+U+7653	癓	⿸疒微
+U+77C0	矀	⿰目微
+U+8587	薇	⿱艹微
+U+89B9	覹	⿰見微
+U+973A	霺	⿱雨微
+U+9FE6	鿦	⿰英微
+U+372B	㜫	⿰女微
+U+3D5F	㵟	⿰氵微
+U+4260	䉠	⿱竹微
+U+4969	䥩	⿰金微
+
+# hkcs_m5fae-v01-p05-s00
+U+5FAE	微	⿵{hkcs-5fae-v01}儿
+U+38F2	㣲	⿵{hkcs-5fae-v01}口
+
+# hkcs_m5fae-v01-p05-s01
+U+5FB5	徵	⿵{hkcs-5fae-v01}𡈼
+
+# hkcs_m5fae-v01-p05-s02
+U+9C34	鰴	⿵{hkcs-5fae-v01}魚
+
+# hkcs_m5db6
+U+21907	𡤇	⿰女嶶
+
+# hkcs_m5fb5
+U+61F2	懲	⿱徵心
+U+7013	瀓	⿰氵徵
+U+7665	癥	⿸疒徵
+U+85E2	藢	⿱艹徵
+U+381E	㠞	⿱徵山
+
+# Simplifications
+U+28C56	𨱖	⿰钅微
+U+31211	𱈑	⿵{hkcs-5fae-v01}鱼
