@@ -1,0 +1,29 @@
+# 晉
+U+6649	晉	⿱{hkcs-6649-c01}日
+
+# Source Code Separation / Duplicate
+U+622C	戬	戩
+U+664B	晋	晉
+U+24A01	𤨁	瑨
+
+# hkcs_m6649
+U+6229	戩	⿰晉戈
+U+6997	榗	⿰木晉
+U+9111	鄑	⿰晉阝
+
+# hkcs_m6649-p02-s00
+U+6422	搢	⿰扌晉
+U+6E8D	溍	⿰氵晉
+U+7468	瑨	⿰王晉
+U+7E09	縉	⿰糸晉
+U+3B10	㬐	⿰日晉
+U+28ACC	𨫌	⿰金晉
+
+# Simplifications
+U+7F19	缙	⿰纟晉
+
+# Variant (㬜)
+U+3B1C	㬜	晉	⿱臸日
+U+287D5	𨟕	鄑	⿰晉阝
+U+22E30	𢸰	搢	⿰扌晉
+U+261E2	𦇢	縉	⿰糸晉
