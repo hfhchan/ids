@@ -1,0 +1,24 @@
+# 萈
+U+8408	萈	⿱⻀〓
+
+# Source Code Separation
+U+5BDB	寛	寬
+
+# hkcs_m8408
+U+2A8AF	𪢯	⿴囗萈
+
+# hkcs_m8408-p24-s00
+U+5BEC	寬	⿱宀萈
+
+# hkcs_m2a8af
+U+2C25B	𬉛	⿰氵𪢯
+
+# hkcs_m5bec-p02-s00
+U+81D7	臗	⿰⺼寬
+U+9467	鑧	⿰金寬
+U+9AD6	髖	⿰骨寬
+
+# Simplifications
+U+5BBD	宽	⿱宀〓
+U+9ACB	髋	⿰骨宽
+U+23391	𣎑	⿰⺼宽
