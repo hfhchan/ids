@@ -1,0 +1,26 @@
+# 燮
+U+71EE	燮	⿱{hkcs-71ee-c01}又
+
+# hkcs_m71ee
+U+8E9E	躞	⿰𧾷燮
+U+39AA	㦪	⿰忄燮
+U+3C14	㰔	⿰木燮
+U+2AC53	𪱓	⿰日燮
+
+# hkcs_m71ee-c01
+U+5911	夑	⿱{hkcs-71ee-c01}夂
+U+71EE	燮	⿱{hkcs-71ee-c01}又
+U+7215	爕	⿱{hkcs-71ee-c01}火
+U+218F9	𡣹	⿱{hkcs-71ee-c01}女
+
+# hkcs_m71ee-p01-s00
+U+3F4A	㽊	⿰燮瓦
+U+2965C	𩙜	⿰燮風
+
+# hkcs_m71ee-p02-s00
+U+24AC9	𤫉	⿰王燮
+U+25346	𥍆	⿰目燮
+
+# hkcs_m7215-p02-s00
+U+24AD9	𤫙	⿰王爕
+U+2534F	𥍏	⿰目爕
