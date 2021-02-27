@@ -1,0 +1,19 @@
+# 囚
+U+56DA	囚	⿴囗人
+
+# hkcs_m56da
+U+6CC5	泅	⿰氵囚
+U+82EC	苬	⿱艹囚
+U+9B82	鮂	⿰魚囚
+U+22604	𢘄	⿰忄囚
+U+2C44B	𬑋	⿰目囚
+U+2D6E2	𭛢	⿰彳囚
+
+# hkcs_m56da-p03-s00
+U+25055	𥁕	⿱囚皿
+
+# hkcs_m6cc5
+U+26C2A	𦰪	⿱艹泅
+
+# Simplifications
+U+311E0	𱇠	⿰鱼囚
