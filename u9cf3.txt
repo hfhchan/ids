@@ -1,0 +1,20 @@
+# 鳳
+U+9CF3	鳳	⿵凡鳥
+
+# Source Code Separation
+U+9CEF	鳯	鳳
+
+# hkcs_m9cf3-p02-s00
+U+3D6F	㵯	⿰氵鳳
+U+4187	䆇	⿰禾鳳
+U+203F5	𠏵	⿰亻鳳
+U+23772	𣝲	⿰木鳳
+U+24AA7	𤪧	⿰王鳳
+U+2B10D	𫄍	⿰糸鳳
+U+2B619	𫘙	⿰馬鳳
+
+# hkcs_m9cf3-p02-s20
+U+2A2F4	𪋴	⿰鹿鳳
+
+# Simplifications
+U+51E4	凤	⿵𠘨又
