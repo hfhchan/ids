@@ -12,3 +12,8 @@ U+2A449	𪑉	⿰黑𡕢
 
 # Simplifications
 U+2B4F8	𫓸	⿰钅𡕢
+
+# Variant (⿱〓又)
+U+26BD8	𦯘	𦲯
+U+92C4	鋄	錽
+U+2AC60	𪱠	𦜒
