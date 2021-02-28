@@ -1,0 +1,8 @@
+# 罵
+U+7F75	罵	⿱⺲馬
+
+# hkcs_m7f75
+U+22907	𢤇	⿰忄罵
+
+# Simplifications
+U+9A82	骂	⿱吅马
