@@ -1,0 +1,16 @@
+# 竄
+U+7AC4	竄	⿱穴鼠
+
+# hkcs_m7ac4-p02-s00
+U+651B	攛	⿰扌竄
+U+8EA5	躥	⿰𧾷竄
+U+9479	鑹	⿰金竄
+U+2C26C	𬉬	⿰氵竄
+U+2EAA0	𮪠	⿰馬竄
+
+# Simplifications
+U+7A9C	窜	⿱穴串
+U+64BA	撺	⿰扌窜
+U+8E7F	蹿	⿰𧾷窜
+U+9569	镩	⿰钅窜
+U+2ADDA	𪷚	⿰氵窜
