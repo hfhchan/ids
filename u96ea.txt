@@ -1,0 +1,20 @@
+# 雪
+U+96EA	雪	⿱雨{hkcs-53c8-v01}
+
+# hkcs_m96ea
+U+244E8	𤓨	⿱燕雪
+
+# hkcs_m96ea-p02-s00
+U+6A30	樰	⿰木雪
+U+81A4	膤	⿰⺼雪
+U+825D	艝	⿰舟雪
+U+8F4C	轌	⿰車雪
+U+9C48	鱈	⿰魚雪
+U+207AF	𠞯	⿰雪刂
+U+20F4C	𠽌	⿰口雪
+U+2182D	𡠭	⿰女雪
+U+2B0AA	𫂪	⿰笑雪
+U+2B7C0	𫟀	⿰米雪
+
+# Simplifications
+U+9CD5	鳕	⿰鱼雪
