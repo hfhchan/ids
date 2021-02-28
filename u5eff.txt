@@ -1,0 +1,13 @@
+# 廿
+U+5EFF	廿	廿
+
+# hkcs_m5eff
+U+5EB9	庹	⿸广⿱廿尺
+U+2050F	𠔏	⿱廿{hkcs-20b1e-v01}
+U+2099C	𠦜	⿰廿廿
+
+# hkcs_m5eff-p03-s00
+U+7097	炗	⿱廿火
+
+# hkcs_m7097
+U+231EA	𣇪	⿱日炗
