@@ -117,7 +117,7 @@ U+81E7	臧	⿵{hkcs-6215-v01}臣
 U+2BEF6	𫻶	⿵{hkcs-6215-v01}口
 
 # hkcs_m2bef6
-U+2BFCE	𫿎	𫻶攴
+U+2BFCE	𫿎	⿱𫻶攴
 
 # hkcs_m621f
 U+64A0	撠	⿰扌戟
