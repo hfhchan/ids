@@ -211,3 +211,16 @@ U+2CE4C	𬹌	⿺麦念
 
 U+836B	荫	⿱艹阴
 U+2BDEE	𫷮	⿸广阴
+
+# 貪
+U+8CAA	貪	⿱今貝
+
+# hkcs_m8caa
+U+50CB	僋	⿰亻貪
+U+55FF	嗿	⿰口貪
+U+3D45	㵅	⿰氵貪
+U+26930	𦤰	⿰臭貪
+U+2CCE6	𬳦	⿰香貪
+
+# Simplifications
+U+8D2A	贪	⿱今贝
