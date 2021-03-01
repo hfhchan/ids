@@ -1,0 +1,27 @@
+# 𬟏
+U+2C7CF	𬟏	𬟏
+
+# hkcs_m2c7cf
+U+9B2E	鬮	⿵鬥𬟏
+U+9F9D	龝	⿰禾𬟏
+U+2A6B0	𪚰	⿱𬟏灬
+U+2A6BC	𪚼	⿱禾𬟏
+U+2A6C1	𪛁	⿰⿱禾火𬟏
+
+# hkcs_m9f9d
+U+8612	蘒	⿱艹龝
+
+# hkcs_m2a6b0
+U+2591A	𥤚	⿰禾𪚰
+
+# Duplicate
+U+418B	䆋	龝
+
+# Simplifications
+U+9604	阄	⿵门龟
+U+2C4EB	𬓫	⿰禾龟
+
+U+7A50	穐	⿰禾亀
+U+4C17	䰗	⿵鬥亀
+U+28D5C	𨵜	⿵門黾
+U+29C18	𩰘	⿵鬥亀
