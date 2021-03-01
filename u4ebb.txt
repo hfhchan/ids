@@ -64,5 +64,8 @@ U+2846E	𨑮	⿺辶什
 U+308E5	𰣥	⿸疒仇
 U+30ADC	𰫜	⿰糸仇
 
+# hkcs_m343a
+U+20C67	𠱧	⿱㐺口
+
 # Simplifications
 U+343D	㐽	⿰亻风
