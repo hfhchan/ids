@@ -1,0 +1,43 @@
+# 龜
+U+9F9C	龜	龜
+
+# hkcs_m9f9c
+U+6AF7	櫷	⿰木龜
+U+9F9E	龞	⿱敝龜
+U+4DAF	䶯	⿰女龜
+U+4DB0	䶰	⿰龜毛
+U+4DB1	䶱	⿰冬龜
+U+4DB2	䶲	⿰冉龜
+U+28DFA	𨷺	⿵門龜
+U+2A6A9	𪚩	⿰口龜
+U+2A6AA	𪚪	⿰夂龜
+U+2A6B1	𪚱	⿰火龜
+U+2A6B8	𪚸	⿰去龜
+U+2A6BB	𪚻	⿱央龜
+U+2A6C2	𪛂	⿱崔龜
+U+2A6D5	𪛕	⿰龠龜
+
+# hkcs_m9f9c-p05-s00
+U+2A6AC	𪚬	⿺龜今
+U+2A6B3	𪚳	⿺龜冄
+U+2A6B6	𪚶	⿺龜句
+U+2A6BD	𪚽	⿺龜冬
+
+# Variant
+U+2A6AB	𪚫	⿺龜丹
+U+2A6AD	𪚭	⿺龜勾
+
+# Duplicate
+U+2191E	𡤞	䶯
+U+24485	𤒅	𪚱
+
+# Simplifications
+U+4E80	亀	亀
+U+2ACE5	𪳥	⿰木亀
+U+2D497	𭒗	⿰女亀
+
+U+9F9F	龟	龟
+U+31345	𱍅	⿺龟勾
+
+U+2B733	𫜳	⿰冉龟
+U+31344	𱍄	⿰冄龟
