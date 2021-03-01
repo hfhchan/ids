@@ -48,3 +48,12 @@ U+8BAF	讯	⿰讠卂
 
 # hkcs_m8fc5
 U+4B40	䭀	⿰飠迅
+
+# 虱
+U+8671	虱	虱
+
+# hkcs_m8671-p02-s00
+U+9BF4	鯴	⿰魚虱
+
+# Simplifications
+U+9CBA	鲺	⿰鱼虱
