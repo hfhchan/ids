@@ -82,6 +82,10 @@ U+27171	𧅱	𧆌	⿱艹齏
 # hkcs_m6fdf
 U+2BB35	𫬵	⿰口濟
 
+# 韲
+U+97F2	韲	⿱{hkcs-9f4a-c00}韭
+U+8640	虀	⿱艹韲
+
 # Simplifications (齐)
 U+9F50	齐	齐
 U+4FAA	侪	⿰亻齐
