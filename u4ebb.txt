@@ -64,3 +64,5 @@ U+2846E	𨑮	⿺辶什
 U+308E5	𰣥	⿸疒仇
 U+30ADC	𰫜	⿰糸仇
 
+# Simplifications
+U+343D	㐽	⿰亻风
