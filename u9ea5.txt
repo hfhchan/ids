@@ -1,0 +1,23 @@
+# 麥
+U+9EA5	麥	⿱來夂
+
+# hkcs_m9ea5
+U+4A2B	䨫	⿱雨麥
+U+2A387	𪎇	⿱𣫞麥
+U+2B24D	𫉍	⿱艹麥
+U+2BB51	𫭑	⿴囗麥
+
+# hkcs_m9ea5-p02-s00
+U+561C	嘜	⿰口麥
+U+4951	䥑	⿰金麥
+U+2B77E	𫝾	⿰扌麥
+
+# hkcs_m9ea5-p05-s00
+U+4D2E	䴮	⿺麥山
+U+4D33	䴳	⿺麥穴
+
+# Simplifications
+U+9EA6	麦	麦
+U+551B	唛	⿰口麦
+U+9FCF	鿏	⿰钅麦
+U+312C6	𱋆	⿺麦山
