@@ -1,0 +1,24 @@
+# 拜
+U+62DC	拜	⿰手{hkcs-62dc-c02}
+
+# hkcs_m62dc
+U+256C9	𥛉	⿺礼拜
+U+25BDF	𥯟	⿱竹拜
+U+2BE4A	𫹊	⿰拜𢒎
+
+# hkcs_m62dc-c02
+U+62DD	拝	⿰扌{hkcs-62dc-c02}
+
+# hkcs_m62dc-p02-s00
+U+6E43	湃	⿰氵拜
+U+35D1	㗑	⿰口拜
+U+21379	𡍹	⿰土拜
+U+22C4E	𢱎	⿰扌拜
+U+280C5	𨃅	⿰𧾷拜
+U+2ACBB	𪲻	⿰木拜
+U+2AFEA	𪿪	⿰石拜
+U+2BC4B	𫱋	⿰女拜
+U+2BEA8	𫺨	⿰忄拜
+U+2CFB3	𬾳	⿰亻拜
+U+30E45	𰹅	⿰身拜
+U+3119E	𱆞	⿺鬼拜
