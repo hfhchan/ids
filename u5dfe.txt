@@ -1,0 +1,28 @@
+# 巾
+U+5DFE	巾	巾
+
+# hkcs_m5dfe
+U+51E7	凧	⿵𠘨巾
+U+8287	芇	⿱⻀巾
+U+929F	銟	⿰金⿱山巾
+
+# hkcs_m5dfe-p01-s00
+U+22060	𢁠	⿰巾弓
+U+22067	𢁧	⿰巾欠
+U+2213B	𢄻	⿰巾散
+
+# hkcs_m5dfe-p01-s10
+U+220C5	𢃅	⿰巾床
+
+# hkcs_m5dfe-p02-s00
+U+39C6	㧆	⿰扌巾
+U+461C	䘜	⿰衤巾
+U+2BA52	𫩒	⿰口巾
+U+2E6C6	𮛆	⿰𧾷巾
+
+# hkcs_m5dfe-p04-s00
+U+5E18	帘	⿱穴巾
+U+2209F	𢂟	⿳𠬞〓巾
+
+# Simplifications
+U+5E05	帅	⿰〓巾
