@@ -87,6 +87,20 @@ U+29C09	𩰉	⿱髟囊
 U+2B641	𫙁	⿱髟免
 U+2CD2F	𬴯	⿱髟廉
 
+# hkcs_m9adf-p03-s01
+U+9AF3	髳	⿱髟矛
+U+9B0C	鬌	⿱髟{hkcs-968b-c01}
+U+9B1B	鬛	⿱髟{hkcs-9b1b-c02}
+U+4BFC	䯼	⿱髟狄
+U+29AFE	𩫾	⿱髟丫
+U+2CD2D	𬴭	⿱髟独
+
+# hkcs_m9adf-p03-s02
+U+4C0D	䰍	⿱髟桼
+U+29B04	𩬄	⿱髟尐
+U+29B3C	𩬼	⿱髟囪
+U+2EAC8	𮫈	⿱髟{hkcs-5de4-c01}
+
 # hkcs_m9aee
 U+27E3B	𧸻	⿰貝髮
 U+29837	𩠷	⿱髮首
