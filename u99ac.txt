@@ -490,6 +490,17 @@ U+24EB6	𤺶	⿸疒馭
 # hkcs_m9a33
 U+9A6B	驫	⿱馬騳
 
+# hkcs_m55ce
+U+21049	𡁉	⿱嗎中
+
+# hkcs_m7341
+U+209C0	𠧀	⿱獁十
+
+# hkcs_m99ae
+U+51F4	凴	⿱馮几
+U+6191	憑	⿱馮心
+U+3D57	㵗	⿱馮水
+
 # Simplifications
 U+9A6C	马	马
 U+51AF	冯	⿰冫马
