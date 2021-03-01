@@ -1,0 +1,17 @@
+# 賈
+U+8CC8	賈	⿱襾貝
+
+# hkcs_m8cc8
+U+50F9	價	⿰亻賈
+U+6A9F	檟	⿰木賈
+U+20FEA	𠿪	⿰口賈
+U+252E3	𥋣	⿰目賈
+U+2A1B2	𪆲	⿰賈鳥
+
+# hkcs_m50f9
+U+30240	𰉀	⿰口價
+
+# Simplifications
+U+8D3E	贾	⿱襾贝
+U+2A88B	𪢋	⿰口贾
+U+69DA	槚	⿰木贾
