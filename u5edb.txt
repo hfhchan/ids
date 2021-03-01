@@ -1,0 +1,26 @@
+# 廛
+U+5EDB	廛	⿸广{hkcs-5edb-c01}
+
+# hkcs_m5edb
+U+913D	鄽	⿰廛阝
+U+27076	𧁶	⿱艹廛
+U+28DE0	𨷠	⿵門廛
+
+# hkcs_m5edb-c01-p16-s00
+U+5EDB	廛	⿸广{hkcs-5edb-c01}
+U+28DC5	𨷅	⿵門{hkcs-5edb-c01}
+
+# hkcs_m5edb-p02-s00
+U+700D	瀍	⿰氵廛
+U+7E8F	纏	⿰糸廛
+U+8E94	躔	⿰𧾷廛
+U+367B	㙻	⿰土廛
+U+210DA	𡃚	⿰口廛
+U+22DF9	𢷹	⿰扌廛
+U+244B2	𤒲	⿰火廛
+U+24AAE	𤪮	⿰王廛
+U+2532C	𥌬	⿰目廛
+U+2750A	𧔊	⿰虫廛
+U+27E33	𧸳	⿰貝廛
+U+28BBB	𨮻	⿰金廛
+U+29F3C	𩼼	⿰魚廛
