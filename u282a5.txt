@@ -1,0 +1,61 @@
+# 𨊥
+U+282A5	𨊥	⿶車凵
+
+# Source Code Separation
+U+6483	撃	擊
+U+7E4B	繋	繫
+
+# hkcs_m282a5-p01-s00
+U+23AA0	𣪠	⿰𨊥殳
+
+# hkcs_m23aa0
+U+26F37	𦼷	⿱艹𣪠
+
+# hkcs_m23aa0-p02-s00
+U+24AA2	𤪢	⿰王𣪠
+
+# hkcs_m23aa0-p02-s01
+U+20FCA	𠿊	⿰口𣪠
+U+27211	𧈑	⿰虎𣪠
+
+# hkcs_m23aa0-p02-s02
+U+274BC	𧒼	⿰虫𣪠
+
+# hkcs_m23aa0-p03-s00
+U+58BC	墼	⿱𣪠土
+U+64CA	擊	⿱𣪠手
+U+6A95	檕	⿱𣪠木
+U+790A	礊	⿱𣪠石
+U+7E6B	繫	⿱𣪠糸
+U+7F4A	罊	⿱𣪠缶
+U+87FF	蟿	⿱𣪠虫
+U+8F5A	轚	⿱𣪠車
+U+20FC9	𠿉	⿱𣪠口
+U+21896	𡢖	⿱𣪠女
+U+2289E	𢢞	⿱𣪠心
+U+24A6F	𤩯	⿱𣪠玉
+
+# hkcs_m64ca
+U+255E9	𥗩	⿰石擊
+
+# hkcs_m7e6b
+U+863B	蘻	⿱艹繫
+
+# Variants (毄)
+U+6BC4	毄	⿰軎殳
+U+26FD3	𦿓	⿱艹毄
+U+21052	𡁒	⿰口毄
+U+255B3	𥖳	⿱毄石
+
+# Variants (𭮼)
+U+2DBBC	𭮼	⿰軎⿱口又
+U+22919	𢤙	⿱𭮼心
+
+# Variants (Other)
+U+2B401	𫐁	轚	~⿱𣪠車
+U+2DBBB	𭮻	𣪠	~⿰𨊥殳
+U+24A6E	𤩮	𤪢	~⿰王𣪠
+
+# Simplifications
+U+51FB	击	击
+U+30E9F	𰺟	⿱𣪠车
