@@ -1,0 +1,24 @@
+# 庄
+U+5E84	庄	⿸广土
+
+# Source Code Separation
+U+5E92	庒	庄
+U+8CD8	賘	賍
+
+# hkcs_m5e84-p01-s00
+U+2A048	𪁈	⿰庄鳥
+
+# hkcs_m5e84-p02-s00
+U+7CA7	粧	⿰米庄
+U+810F	脏	⿰⺼庄
+U+8CCD	賍	⿰貝庄
+U+36C7	㛇	⿰女庄
+U+40AF	䂯	⿰石庄
+U+24578	𤕸	⿰爿庄
+U+2517E	𥅾	⿰目庄
+U+28035	𨀵	⿰𧾷庄
+U+2CD50	𬵐	⿰魚庄
+
+# Simplifications
+U+2A249	𪉉	⿰庄鸟
+U+8D43	赃	⿰贝庄
