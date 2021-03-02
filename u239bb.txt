@@ -1,0 +1,28 @@
+# 𣦻
+U+239BB	𣦻	⿰𣦵又
+
+# hkcs_m239bb-p05-s00
+U+3561	㕡	⿹𣦻谷
+U+3562	㕢	⿹𣦻貝
+
+# hkcs_m3561
+U+58D1	壑	⿱㕡土
+U+27F9D	𧾝	⿺走㕡
+
+# hkcs_m3562-p05-s01
+U+4AA5	䪥	⿸㕢韭
+U+25304	𥌄	⿸㕢目
+
+# hkcs_m3562-p05-s00
+U+27DCE	𧷎	⿸㕢土
+
+# Simplifications
+U+301C0	𰇀	⿹𣦻贝
+U+2A800	𪠀	⿸𰇀土
+U+3108E	𱂎	⿸𰇀韭
+
+# hkcs_m22fe1-c01
+U+22FE1	𢿡	⿹{hkcs-22fe1-c01}貝
+
+# hkcs_m22fe1-c02
+U+22FD3	𢿓	⿹{hkcs-22fe1-c02}貝
