@@ -1,0 +1,13 @@
+# 飾
+U+98FE	飾	⿰飠{hkcs-98fe-c02}
+
+# hkcs_m98fe
+U+7C42	籂	⿱竹飾
+
+# Simplifications
+U+9970	饰	⿰饣{hkcs-98fe-c02}
+
+# hkcs_m98fe-c02
+U+9253	鉓	⿰金{hkcs-98fe-c02}
+U+98FE	飾	⿰飠{hkcs-98fe-c02}
+U+25366	𥍦	⿰矛{hkcs-98fe-c02}
