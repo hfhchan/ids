@@ -25,8 +25,12 @@ U+22C1D	𢰝	⿰扌茂
 U+2355A	𣕚	⿰木茂
 U+2DE19	𭸙	⿰犭茂
 
-# Simplifications
-U+28C46	𨱆	⿰钅戊
-
 # hkcs_m8302-p05-s00
 U+84A7	蒧	⿵茂占
+
+# hkcs_m8302-p05-s01
+U+8546	蕆	⿵茂貝
+
+# Simplifications
+U+28C46	𨱆	⿰钅戊
+U+8487	蒇	⿵茂贝
