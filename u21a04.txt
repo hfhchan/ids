@@ -25,6 +25,9 @@ U+47BF	䞿	⿱𡨄走
 # hkcs_m21a04-p03-s02
 U+5BD2	寒	⿱𡨄冫
 
+# hkcs_m585e
+U+7C3A	簺	⿱竹塞
+
 # hkcs_m5bcb-p02-s00
 U+21F0C	𡼌	⿰山寋
 U+27771	𧝱	⿰衤寋
