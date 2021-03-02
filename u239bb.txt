@@ -26,3 +26,6 @@ U+22FE1	𢿡	⿹{hkcs-22fe1-c01}貝
 
 # hkcs_m22fe1-c02
 U+22FD3	𢿓	⿹{hkcs-22fe1-c02}貝
+
+# Simplifications
+U+2BFC2	𫿂	⿹{hkcs-22fe1-c02}贝
