@@ -1,0 +1,25 @@
+# 衞
+U+885E	衞	⿰彳〓亍
+
+# hkcs_m885e
+U+8B8F	讏	⿱衞言
+U+8E9B	躛	⿱衞足
+U+25DBD	𥶽	⿱竹衞
+U+27C94	𧲔	⿱衞豕
+U+27C9D	𧲝	⿱衞豚
+
+# Simplifications
+U+536B	卫	卫
+U+2B071	𫁱	⿱竹卫
+
+# 衛
+U+885B	衛	⿲彳韋亍
+
+# hkcs_m885b
+U+8B86	讆	⿱衛言
+U+8E97	躗	⿱衛足
+U+39A3	㦣	⿱衛心
+U+2C8D4	𬣔	⿰言衛
+
+# Simplifications
+U+2C8C0	𬣀	⿱⿲彳韦亍言
