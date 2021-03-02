@@ -120,6 +120,9 @@ U+4831	䠱	⿰𧾷屬
 # Simplifications
 U+30D88	𰶈	⿰讠犀
 
+U+8FDF	迟	⿺辶尺
+U+9045	遅	⿺辶𡱝
+
 # Duplicates
 U+27E67	𧹧	䞔	⿰赤㞑
 U+29602	𩘂	𩗘	⿺風㞑
