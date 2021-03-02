@@ -1,0 +1,15 @@
+# 幽
+U+5E7D	幽	幽
+
+# hkcs_m5e7d
+U+35C0	㗀	⿰口幽
+U+221D1	𢇑	⿱幽𢆶
+U+221D5	𢇕	⿱幽幽
+
+# hkcs_m5e7d-p01-s00
+U+4ADC	䫜	⿰幽頁
+U+2A0E8	𪃨	⿰幽鳥
+U+2E800	𮠀	⿰幽阝
+
+# Simplifications
+U+2CC6E	𬱮	⿰幽页
