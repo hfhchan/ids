@@ -1,0 +1,76 @@
+# 貝
+U+8C9D	貝	貝
+
+# hkcs_m8c9d
+U+8D14	贔	⿱貝賏
+U+20B41	𠭁	⿱貝又
+
+# hkcs_m8c9d-p01-s00
+U+6557	敗	⿰貝攵
+U+8546	蕆	⿱艹⿵戊貝
+U+8D01	贁	⿰⿱貝貝攵
+U+27D73	𧵳	⿰貝舌
+U+27E29	𧸩	⿰貝睿
+
+# hkcs_m8c9d-p01-s01
+U+8CCF	賏	⿰貝貝
+U+476A	䝪	⿰貝疋
+U+476C	䝬	⿰貝主
+
+# hkcs_m8c9d-p02-s00
+U+5504	唄	⿰口貝
+U+57BB	垻	⿰土貝
+U+6896	梖	⿰木貝
+U+6D7F	浿	⿰氵貝
+U+72FD	狽	⿰犭貝
+U+86FD	蛽	⿰虫貝
+U+8CCF	賏	⿰貝貝
+U+92C7	鋇	⿰金貝
+U+3E3D	㸽	⿰牛貝
+U+47FA	䟺	⿰𧾷貝
+U+25198	𥆘	⿰目貝
+
+# hkcs_m8c9d-p04-s00
+U+7B6B	筫	⿱竹貝
+U+8CAD	貭	⿸〓貝
+U+8CEB	賫	⿱{hkcs-8ceb-c01}貝
+U+8CEE	賮	⿱𭴘貝
+U+8D17	贗	⿸厂𠌵⿱貝
+U+2598E	𥦎	⿱穴貝
+U+26BB7	𦮷	⿱艹貝
+
+# hkcs_m8d14
+U+5C6D	屭	⿸尸贔
+U+20ACD	𠫍	⿸厂贔
+
+# hkcs_m6557
+U+20F1A	𠼚	⿰口敗
+
+# hkcs_m6557-p02-s00
+U+2C10E	𬄎	⿰木敗
+
+# hkcs_m8ccf
+U+8D14	贔	⿱貝賏
+
+# hkcs_m8ceb
+U+2294E	𢥎	⿰忄賫
+
+# hkcs_m8ceb-c01
+U+8CEB	賫	⿱{hkcs-8ceb-c01}貝
+
+# hkcs_m8cee
+U+270B0	𧂰	⿱艹賮
+
+# Simplifications
+U+8D1D	贝	贝
+U+5457	呗	⿰口贝
+U+575D	坝	⿰土贝
+U+72C8	狈	⿰犭贝
+U+94A1	钡	⿰钅贝
+U+478C	䞌	⿰贝舌
+U+2C9A5	𬦥	⿰𧾷贝
+
+U+8487	蒇	⿱艹⿵戊贝
+U+8D25	败	⿰贝攵
+U+8D4D	赍	⿱{hkcs-8ceb-c01}贝
+U+8D51	赑	⿱贝⿰贝贝
