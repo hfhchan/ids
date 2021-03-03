@@ -37,5 +37,8 @@ U+2AAEE	𪫮	⿰忄百
 # hkcs_m767e-p02-s01
 U+2C9B0	𬦰	⿰𧾷百
 
+# hkcs_m6822
+U+2ADAF	𪶯	⿰氵栢
+
 # hkcs_m964c
 U+23D8A	𣶊	⿰氵陌
