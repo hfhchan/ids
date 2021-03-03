@@ -163,3 +163,9 @@ U+454B	䕋	⿱艹塘
 # Simplifications
 U+2CCCD	𬳍	⿰饣唐
 U+3129D	𱊝	⿰唐鸟
+
+# hkcs_m5e9a-v01-p03-s00
+U+20B7B	𠭻	⿱{hkcs-5e9a-v01}用
+
+# hkcs_m5e9a-v01-p05-s00
+U+20B73	𠭳	⿻{hkcs-5e9a-v01}〓
