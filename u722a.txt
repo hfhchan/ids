@@ -60,3 +60,27 @@ U+27AEA	𧫪	⿰言𧆩
 # Simplifications
 U+2CB32	𬬲	⿰钅爪
 U+4C9F	䲟	⿰鱼印
+
+# 爫
+U+722B	爫	爫
+
+# hkcs_m722b-p03-s01
+U+20B2A	𠬪	⿱爫又
+U+2450C	𤔌	⿳爫工{hkcs-53c8-v01}
+U+2AE95	𪺕	⿱爫⿲幺幺幺
+
+# hkcs_m722b-p03-s02
+U+200ED	𠃭	⿰⿱爫口乚
+
+# 𤓽
+U+244FD	𤓽	𤓽
+
+# Duplicate
+U+24503	𤔃	𤓽
+U+2450D	𤔍	𤓽
+U+29770	𩝰	𩜿
+U+2979B	𩞛	𩜿
+
+# hkcs_m244fd-p02-s00
+U+213BD	𡎽	⿰土𤓽
+U+2973F	𩜿	⿰飠𤓽
