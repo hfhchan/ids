@@ -40,10 +40,6 @@ U+25DC3	𥷃	⿱竹槳
 # hkcs_m38a1
 U+25D9D	𥶝	⿱竹㢡
 
-# Variants
-U+247CC	𤟌	⿰丬⿱{hkcs-2ebc-v01}犬
-U+247D2	𤟒	⿱⿰丬{hkcs-2ebc-v01}犬
-
 # Simplifications
 U+5C06	将	将
 U+5968	奨	⿱将大
