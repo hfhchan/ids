@@ -1,0 +1,12 @@
+# 党
+U+515A	党	⿱龸兄
+
+# hkcs_m515a-p02-s00
+U+93B2	鎲	⿰金党
+U+235CB	𣗋	⿰木党
+U+23EBC	𣺼	⿰氵党
+U+27AC6	𧫆	⿰言党
+
+# Simplifications
+U+954B	镋	⿰钅党
+U+8C20	谠	⿰讠党
