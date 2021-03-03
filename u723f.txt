@@ -10,7 +10,10 @@ U+24599	𤖙	⿰爿⿱酉皿
 # ⿰爿{hkcs-2ebc-v01}
 U+5C07	將	⿰爿⿱{hkcs-2ebc-v01}寸
 U+24585	𤖅	⿰爿⿱{hkcs-2ebc-v01}水
+U+247CC	𤟌	⿰爿⿱{hkcs-2ebc-v01}犬
 U+2731C	𧌜	⿰爿⿱{hkcs-2ebc-v01}虫
+
+U+247D2	𤟒	⿱⿰爿{hkcs-2ebc-v01}犬
 U+28853	𨡓	⿱⿰爿{hkcs-2ebc-v01}酉
 
 # Simplifications
