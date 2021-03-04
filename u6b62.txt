@@ -96,3 +96,11 @@ U+6DFD	淽	⿰氵芷
 
 # Simplifications
 U+2B7DE	𫟞	⿰讠止
+
+# 企
+U+4F01	企	⿱人止
+
+# hkcs_m4f01
+U+5CDC	峜	⿱山企
+U+3589	㖉	⿰口企
+U+28023	𨀣	⿰𧾷企
