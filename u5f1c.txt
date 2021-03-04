@@ -4,6 +4,16 @@ U+5F1C	弜	⿰弓弓
 # hkcs_m5f1c
 U+26B72	𦭲	⿱艹弜
 
+# hkcs_m5f1c-p01-s00
+U+38B8	㢸	⿰弜攵
+
+# hkcs_m5f1c-p01-s00
+U+38B8	㢸	⿰弜攵
+
+# hkcs_m5f1c-p01-s01
+U+22400	𢐀	⿰弜㐁
+U+22408	𢐈	⿰弜{hkcs-3401-v01}
+
 # hkcs_m5f1c-p05-s00
 U+5F3B	弻	⿲弓㐁弓
 U+5F3C	弼	⿲弓{hkcs-3401-v01}弓
