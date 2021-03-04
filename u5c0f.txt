@@ -1,0 +1,18 @@
+# 小
+U+5C0F	小	小
+
+# hkcs_m5c0f
+U+5C1B	尛	⿱小⿰小小
+U+91E5	釥	⿰金小
+U+225B9	𢖹	⿰忄小
+U+2BB5A	𫭚	⿰土小
+
+# hkcs_m5c0f-p03-s00
+U+5C10	尐	⿱小乀
+U+5C18	尘	⿱小土
+
+# hkcs_m5c10
+U+20BD9	𠯙	⿰口尐
+
+# Simplifications
+U+30F5B	𰽛	⿰钅小
