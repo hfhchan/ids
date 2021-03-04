@@ -1,0 +1,61 @@
+# 山
+U+5C71	山	山
+
+# hkcs_m5c71
+U+519A	冚	⿱冖山
+U+21DC8	𡷈	⿱山⿰山山
+U+21F1A	𡼚	⿳吅山吅
+U+296CE	𩛎	⿰飠⿱山口
+U+2D4DE	𭓞	⿱宀山
+
+# hkcs_m5c71-p01-s00
+U+4E62	乢	⿰山乚
+U+5C7E	屾	⿰山山
+U+21D39	𡴹	⿰山卩
+U+21E2C	𡸬	⿰山𨸏
+U+21EFF	𡻿	⿰山𨥉
+U+2D5A4	𭖤	⿰山乕
+
+# hkcs_m5c71-p02-s00
+U+5738	圸	⿰土山
+U+5C7E	屾	⿰山山
+U+47D6	䟖	⿰𧾷山
+U+20BBF	𠮿	⿰口山
+U+21D63	𡵣	⿰牛山
+U+28949	𨥉	⿰金山
+
+# hkcs_m5c71-p03-s00
+U+5CC0	峀	⿱山由
+U+5CC7	峇	⿱山合
+U+5CDC	峜	⿱山企
+U+37A4	㞤	⿱山人
+
+# hkcs_m5c71-p03-s01
+U+5D0B	崋	⿱山{hkcs-20336-v01}
+U+21D5D	𡵝	⿱山从
+
+# hkcs_m5c71-p04-s00
+U+37BC	㞼	⿱氶山
+
+# hkcs_m5c71-p04-s01
+U+4EDA	仚	⿱人山
+U+5C72	屲	⿱丿山
+U+21D32	𡴲	⿱𠂊山
+
+# hkcs_m21dc8-v01
+U+2051E	𠔞	⿱{hkcs-21dc8-v01}{hkcs-20b1e-v01}
+U+213A8	𡎨	⿱{hkcs-21dc8-v01}土
+U+21491	𡒑	⿱{hkcs-21dc8-v01}⿵𠘨⿱土土
+U+21999	𡦙	⿱{hkcs-21dc8-v01}字
+U+21F7F	𡽿	⿱{hkcs-21dc8-v01}宗
+U+21F97	𡾗	⿱{hkcs-21dc8-v01}英
+U+232CE	𣋎	⿱{hkcs-21dc8-v01}昌
+
+# hkcs_m21dc8-v01-p03-s00
+U+20A24	𠨤	⿱{hkcs-21dc8-v01}??丿丶??丿丶??一丨??丿丶??丿丶
+
+# hkcs_m28949
+U+21EFF	𡻿	⿰山𨥉
+
+# Simplifications
+U+2CCB4	𬲴	⿰饣⿱山口
