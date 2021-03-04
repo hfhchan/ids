@@ -26,6 +26,9 @@ U+21378	𡍸	⿱品土
 U+6F8F	澏	⿰氵嵒
 U+27B0C	𧬌	⿰言嵒
 
+# hkcs_m5d52-p26-s00
+U+764C	癌	⿸疒嵒
+
 # Simplifications
 U+2CBB3	𬮳	⿵门品
 U+2C920	𬤠	⿰讠嵒
