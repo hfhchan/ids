@@ -2,6 +2,7 @@
 U+5EF4	廴	廴
 
 # hkcs_m5ef4
+U+5EF5	廵	⿺廴巛
 U+5EF6	延	⿺廴〓
 U+5EF7	廷	⿺廴𡈼
 U+5EF8	廸	⿺廴由
