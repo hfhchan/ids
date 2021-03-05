@@ -88,7 +88,6 @@ U+210C7	𡃇	⿰口弊
 U+26FDD	𦿝	⿱艹幣
 
 # Simplifications
-U+6BD9	毙	⿱敝死
 U+9CD6	鳖	⿱敝鱼
 U+2B6EE	𫛮	⿰㡀鸟
 U+2B701	𫜁	⿱敝鸟
