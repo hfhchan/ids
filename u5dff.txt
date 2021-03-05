@@ -47,3 +47,6 @@ U+9708	霈	⿱雨沛
 
 # Simplifications
 U+311D1	𱇑	⿰鱼巿
+
+# Variant
+U+726C	牬	⿰木𠂔
