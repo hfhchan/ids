@@ -235,12 +235,19 @@ U+3A64	㩤	⿰扌敷
 U+218F7	𡣷	⿰女敷
 U+23792	𣞒	⿰木敷
 
-# hkcs_m2adeb-c01
-U+2A926	𪤦	⿰土⿳甫𠆢氺
-U+2ADEB	𪷫	⿰氵⿳甫𠆢氺
-
 # hkcs_m530d
 U+8461	葡	⿱艹匍
 
 # hkcs_m8461
 U+218BC	𡢼	⿰女葡
+
+# 鿿
+U+9FFF	鿿	⿳甫𠆢氺
+
+# hkcs_m9fff-p02-s00
+U+2A926	𪤦	⿰土鿿
+U+2ADEB	𪷫	⿰氵鿿
+
+# Variant
+U+23FC0	𣿀	𪷫
+U+2AB2C	𪬬	𪷫
