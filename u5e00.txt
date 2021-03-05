@@ -1,0 +1,36 @@
+# 帀
+U+5E00	帀	帀
+
+# hkcs_m5e00
+U+9CFE	鳾	⿰帀鳥
+U+44A5	䒥	⿱艹帀
+U+20B8D	𠮍	⿰⿱㞢帀叜
+U+2B95E	𫥞	⿵𠘨帀
+
+# hkcs_m5e00-p02-s00
+U+6C9E	沞	⿰氵帀
+U+9B73	魳	⿰魚帀
+U+4799	䞙	⿺走帀
+U+29FD0	𩿐	⿰鳥帀
+U+2CC2A	𬰪	⿰韋帀
+
+# hkcs_m5e00-p02-s01
+U+5E2B	師	⿰𠂤帀
+U+97F4	韴	⿰音帀
+U+3EB0	㺰	⿰王帀
+U+201C6	𠇆	⿰亻帀
+U+20BD7	𠯗	⿰口帀
+U+24733	𤜳	⿰犭帀
+U+2CC8C	𬲌	⿰飠帀
+
+# hkcs_m5e00-p26-s00
+U+8FCA	迊	⿺辶帀
+
+# hkcs_m8fca
+U+20D34	𠴴	⿰口迊
+
+# Duplicate
+U+22162	𢅢	𠮍
+
+# Simplifications
+U+4D13	䴓	⿰帀鸟
