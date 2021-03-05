@@ -1,0 +1,18 @@
+# 壺
+U+58FA	壺	壺
+
+# hkcs_m58fa
+U+26E9F	𦺟	⿱艹壺
+
+# hkcs_m58fa-p01-s00
+U+2154F	𡕏	⿰壺桑
+U+24B17	𤬗	⿰壺瓜
+U+250D5	𥃕	⿰壺盍
+U+2BBC9	𫯉	⿰壺𠦪
+
+# hkcs_m58fa-p02-s00
+U+3BDB	㯛	⿰木壺
+U+297B5	𩞵	⿰飠壺
+
+# Simplifications
+U+58F6	壶	壶
