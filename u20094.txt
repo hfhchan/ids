@@ -1,3 +1,8 @@
+# Confusables: 巿 (U+5DFF), 分勿切 (幫/物/入) 
+# Confusables: 𣎵 (U+233B5)
+# Confusables: 𣎳 (U+233B3), 匹刃切 (滂/眞A/去)
+# Confusables: 𠂔 (U+20094), 阻史切 (莊/之/上)
+
 # 𠂔
 U+20094	𠂔	𠂔
 
@@ -48,3 +53,8 @@ U+2DC09	𭰉	⿰氵𠥽
 # {hkcs-2097d-v01}
 U+67BE	枾	⿰木{hkcs-2097d-v01}
 U+2940A	𩐊	⿰{hkcs-2097d-v01}⿱次韭
+
+# 市
+U+59C9	姉	⿰女市
+U+67FF	柿	⿰木市
+U+25791	𥞑	⿰禾市

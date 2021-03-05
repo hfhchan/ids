@@ -1,16 +1,14 @@
+# Confusables: 巿 (U+5DFF), 分勿切 (幫/物/入) 
+# Confusables: 𣎵 (U+233B5)
+# Confusables: 𣎳 (U+233B3), 匹刃切 (滂/眞A/去)
+# Confusables: 𠂔 (U+20094), 阻史切 (莊/之/上)
+
 # 𣎳
 U+233B3	𣎳	𣎳
 
 # hkcs_m233b3-p01-s01
 U+22EFE	𢻾	⿰𣎳攵
 U+233DF	𣏟	⿰𣎳𣎳
-
-# hkcs_m233b3-p02-s01
-U+24742	𤝂	⿰犭𣎳
-U+25453	𥑓	⿰石𣎳
-
-# hkcs_m233b3-p04-s00
-U+67B2	枲	⿳厶口𣎳
 
 # hkcs_m233df
 U+6ABE	檾	⿱𤇾𣏟
@@ -20,6 +18,17 @@ U+26C4D	𦱍	⿱艹𣏟
 # hkcs_m233df-p26-s00
 U+75F2	痲	⿸疒𣏟
 U+9EBB	麻	⿸广𣏟
+
+# Variant Shape (秝)
+U+258FB	𥣻	⿱𤇾秝
+U+26F16	𦼖	⿱𫇦秝
+
+# Variant Shape (⿻屮八)
+U+2347C	𣑼	⿰⿻屮八⿻屮八
+U+25453	𥑓	⿰石⿻屮八
+
+# 枲
+U+67B2	枲	⿳厶口𣎳
 
 # hkcs_m67b2
 U+8448	葈	⿱艹枲
@@ -39,11 +48,8 @@ U+28420	𨐠	⿰枲辛
 
 # hkcs_m67b2-p02-s00
 U+26085	𦂅	⿰糸枲
+U+26212	𦈒	⿰纟枲
 
 # hkcs_m67b2-p02-s01
 U+3DD8	㷘	⿰火枲
 U+23558	𣕘	⿰木枲
-
-# Simplifications
-U+26F16	𦼖	⿱𫇦秝
-U+26212	𦈒	⿰纟枲
