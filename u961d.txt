@@ -1,9 +1,6 @@
 # 阝
 U+961D	阝	阝	
 
-# Source Code Separation
-U+90C9	郉	邢
-
 # hkcs_m2ecf-p02-s00
 U+90A9	邩	⿰火阝
 U+90AE	邮	⿰由阝
