@@ -1,6 +1,9 @@
 # 衰
 U+8870	衰	⿳亠{hkcs-5184-v01}𧘇
 
+# Source Code Separation
+U+7C14	簔	簑
+
 # hkcs_m8870
 U+7C11	簑	⿱竹衰
 U+84D1	蓑	⿱艹衰
