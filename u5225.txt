@@ -31,3 +31,24 @@ U+2E406	𮐆	⿰芋別
 
 # Simplifications
 U+30D6C	𰵬	⿰讠別
+
+# 𠮠
+U+20BA0	𠮠	叧
+
+# Source Code Separation
+U+67B4	枴	柺
+
+# hkcs_m20ba0-p01-s00
+U+5225	別	⿰𠮠刂
+U+35D7	㗗	⿰𠮠卑
+
+# hkcs_m20ba0-p02-s00
+U+62D0	拐	⿰扌𠮠
+U+67FA	柺	⿰木𠮠
+U+4922	䤢	⿰金𠮠
+U+24D71	𤵱	⿸疒𠮠
+U+27285	𧊅	⿰虫𠮠
+U+2BB66	𫭦	⿰土𠮠
+
+# hkcs_m62d0
+U+7B89	箉	⿱竹拐
