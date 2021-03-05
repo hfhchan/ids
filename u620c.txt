@@ -1,6 +1,9 @@
 # 戌
 U+620C	戌	⿵戊一
 
+# Source Code Separation
+U+6B73	歳	歲
+
 # hkcs_m620c
 U+2515B	𥅛	⿱目戌
 U+26434	𦐴	⿰戌羽
