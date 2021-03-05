@@ -1,6 +1,12 @@
 # 戶
 U+6236	戶	戶
 
+# Source Code Separation
+U+6237	户	戶
+U+6238	戸	戶
+U+623B	戻	戾
+U+6D99	涙	淚
+
 # hkcs_m6236
 U+5E90	庐	⿸广戶
 U+82A6	芦	⿱艹戶
