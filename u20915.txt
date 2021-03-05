@@ -47,8 +47,5 @@ U+5BF2	寲	⿱宀疑
 U+7C4E	籎	⿱竹疑
 U+85BF	薿	⿱艹疑
 
-# hkcs_m51dd
-U+20624	𠘤	凝氷
-
 # Simplifications
 U+2C929	𬤩	⿰讠疑
