@@ -55,3 +55,23 @@ U+297B9	𩞹	⿱猒食
 
 # hkcs_m98f1
 U+859E	薞	⿱艹飱
+
+# 飠
+U+98E0	飠	飠
+U+2967F	𩙿	飠
+
+# hkcs_m98e0-p01-s00
+U+2B5D8	𫗘	⿰飠𬐚
+U+2CC8C	𬲌	⿰飠帀
+
+# hkcs_m98e0-p01-s01
+U+98E4	飤	⿰飠人
+U+29685	𩚅	⿰飠卜
+
+# hkcs_m98e4
+U+20957	𠥗	⿷匚飤
+
+# Simplifications
+U+9963	饣	饣
+U+2CCA5	𬲥	⿰饣卜
+U+2CCA6	𬲦	⿰饣人
