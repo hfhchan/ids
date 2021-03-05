@@ -319,3 +319,6 @@ U+846A	葪	⿱艹㓩
 
 # hkcs_m20803-c01
 U+20803	𠠃	⿰{hkcs-20803-c01}刂
+
+# Simplifications
+U+948A	钊	⿰钅刂
