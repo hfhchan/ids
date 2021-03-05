@@ -322,3 +322,5 @@ U+20803	𠠃	⿰{hkcs-20803-c01}刂
 
 # Simplifications
 U+948A	钊	⿰钅刂
+U+2CD80	𬶀	⿰鱼刂
+U+84DF	蓟	⿱艹𬶀
