@@ -76,3 +76,4 @@ U+2161B	𡘛	⿱大奻
 
 # Simplifications
 U+2B766	𫝦	⿰女贝
+U+9495	钕	⿰钅女
