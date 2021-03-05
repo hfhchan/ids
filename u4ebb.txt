@@ -1,5 +1,5 @@
 # 亻
-U+4EBB	亻	⿰亻
+U+4EBB	亻	亻
 
 # hkcs_m4ebb-p01-s00
 U+4EC5	仅	⿰亻又
@@ -12,7 +12,6 @@ U+2033E	𠌾	⿰亻莪
 U+20412	𠐒	⿰亻養
 
 # hkcs_m4ebb-p01-s01
-U+4EBB	亻	⿰亻
 U+4EC0	什	⿰亻十
 U+4EC7	仇	⿰亻九
 U+4EE6	仦	⿰亻小
@@ -69,3 +68,22 @@ U+20C67	𠱧	⿱㐺口
 
 # Simplifications
 U+343D	㐽	⿰亻风
+
+# 儿
+U+513F	儿	儿
+
+# hkcs_m513f-p04-s00
+U+5492	咒	⿱吅儿
+
+# 人
+U+4EBA	人	人
+
+# hkcs_m4eba
+U+201A3	𠆣	⿱一人
+
+# hkcs_m4eba-p03-s00
+U+4E2A	个	⿱人丨
+U+4ED0	仐	⿱人十
+
+# hkcs_m4e2a
+U+2006D	𠁭	⿱个⿰个个
