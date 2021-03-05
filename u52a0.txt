@@ -90,5 +90,6 @@ U+218D7	𡣗	⿰女嘉
 U+24435	𤐵	⿰火嘉
 
 # Simplifications
+U+8D3A	贺	⿱加贝
 U+9A7E	驾	⿱加马
 U+2B6E4	𫛤	⿱加鸟
