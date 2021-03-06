@@ -93,3 +93,7 @@ U+9D90	鶐	⿰述鳥
 # Simplifications
 U+30D53	𰵓	⿰讠朮
 U+2CB38	𬬸	⿰钅朮
+
+U+94E9	铩	⿰钅杀
+U+2C0AE	𬂮	⿰木杀
+U+2CE0C	𬸌	⿱杀鸟
