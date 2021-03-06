@@ -1,0 +1,8 @@
+# 彝
+U+5F5D	彝	⿳彑⿰米糸廾
+
+# Source Code Separation
+U+5F5E	彞	彝
+
+# hkcs_m5f5d
+U+3C18	㰘	⿰木彝
