@@ -2,9 +2,6 @@
 U+7CF8	糸	糸
 U+7CF9	糹	糸
 
-# hkcs_m7cf8
-U+5F5D	彝	⿳彑⿰米糸廾
-
 # hkcs_m7cf8-p01-s00
 U+4E7F	乿	⿰⿱爫糸乚
 U+7CFA	糺	⿰糸乚
