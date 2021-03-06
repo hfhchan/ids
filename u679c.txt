@@ -1,6 +1,9 @@
 # 果
 U+679C	果	果
 
+# Source Code Separation
+U+5F5A	彚	彙
+
 # hkcs_m679c
 U+83D3	菓	⿱艹果
 U+28D5A	𨵚	⿵門果
