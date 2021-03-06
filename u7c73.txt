@@ -355,7 +355,6 @@ U+21B0D	𡬍	⿸{hkcs-3771-c02}米
 U+25EA4	𥺤	⿱叔米
 
 # hkcs_m7c73-p0901-s00
-U+5F5D	彝	⿳彑⿰米糸廾
 U+25F80	𥾀	⿰⿱米要焦
 
 # hkcs_m7c73-p14-s00
@@ -424,9 +423,6 @@ U+3600	㘀	⿰口䊆
 
 # hkcs_m5ba9-p02-s00
 U+36FD	㛽	⿰女宩
-
-# hkcs_m5f5d
-U+3C18	㰘	⿰木彝
 
 # Simplifications
 U+2C591	𬖑	⿰米见
