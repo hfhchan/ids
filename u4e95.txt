@@ -53,3 +53,9 @@ U+38CB	㣋	⿰丼彡
 
 # Simplifications
 U+30F5F	𰽟	⿰钅井
+
+# Variant
+U+524F	剏	⿰并刃
+U+5259	剙	⿰并刅
+U+20775	𠝵	⿰幷刃
+U+206FC	𠛼	⿰并刂
