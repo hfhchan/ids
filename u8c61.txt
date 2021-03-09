@@ -31,3 +31,24 @@ U+29553	𩕓	⿰象頁
 # Simplifications
 U+2CDB2	𬶲	⿰鱼象
 U+31107	𱄇	⿰饣象
+
+# Variant (𤊱)
+U+242B1	𤊱	象
+U+22853	𢡓	𢠽	⿰忄𤊱
+
+# Variant (𮙞)
+U+2E65E	𮙞	象
+U+300B8	𰂸	像	⿰亻𮙞
+
+# Other Variants
+U+27C3C	𧰼	象
+U+2AE4C	𪹌	象
+U+2C29F	𬊟	象
+U+2E65D	𮙝	象
+U+2E660	𮙠	象
+U+208B0	𠢰	勨
+U+208B4	𠢴	勨
+U+23ECD	𣻍	潒
+U+2774C	𧝌	襐
+U+2778C	𧞌	襐
+U+277A6	𧞦	襐
