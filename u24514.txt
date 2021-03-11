@@ -22,3 +22,7 @@ U+203E2	𠏢	⿰亻亂
 
 # hkcs_m8fad
 U+2B357	𫍗	⿰言辭
+
+# Simplifications
+U+4E71	乱	⿰{hkcs-2097d-v01}乚
+U+26BE0	𦯠	⿱艹乱
