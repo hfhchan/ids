@@ -132,3 +132,7 @@ U+28AC6	𨫆	⿰金庭
 
 # hkcs_m6883
 U+2BAD5	𫫕	⿰口梃
+
+# Simplifications
+U+67FD	柽	⿰木圣
+U+86CF	蛏	⿰虫圣
