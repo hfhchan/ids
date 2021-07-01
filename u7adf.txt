@@ -25,7 +25,7 @@ U+2BCAD	𫲭	⿰子竟
 U+2C827	𬠧	⿰虫竟
 
 # hkcs_m93e1
-U+30F54	𰽔	鏡鏡鏡鏡
+U+30F54	𰽔	⿱⿰鏡鏡⿰鏡鏡
 
 # Simplifications
 U+955C	镜	⿰钅竟
