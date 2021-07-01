@@ -155,6 +155,16 @@ U+2A2F2	𪋲	⿰鹿㷠
 U+48AF	䢯	⿺辶㷠
 U+2714A	𧅊	⿱艹䢯
 
+# Variants （粦）
+U+65B4	斴	⿰粦斤
+U+20108	𠄈	⿰粦⿱乙乙
+U+25ED8	𥻘	⿰粦巛
+U+269FE	𦧾	⿰粦卂
+
+# Variants （㷠）
+U+269FF	𦧿	⿰㷠乚
+U+230CC	𣃌	⿰㷠斤
+
 # Simplifications
 U+299F6	𩧶	⿱舛马
 U+2A24B	𪉋	⿱舛鸟
