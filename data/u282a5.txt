@@ -52,9 +52,9 @@ U+2DBBC	𭮼	⿰軎⿱口又
 U+22919	𢤙	⿱𭮼心
 
 # Variants (Other)
-U+2B401	𫐁	轚	~⿱𣪠車
-U+2DBBB	𭮻	𣪠	~⿰𨊥殳
-U+24A6E	𤩮	𤪢	~⿰王𣪠
+U+2B401	𫐁	⿱⿰⿱車厶殳車
+U+2DBBB	𭮻	⿰⿱車厶⿱口又
+U+24A6E	𤩮	⿰王⿰⿱車厶殳
 
 # Simplifications
 U+51FB	击	击
