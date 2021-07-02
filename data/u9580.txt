@@ -1,5 +1,5 @@
 # 門
-U+9580	門		⿰𠁣𠃛
+U+9580	門	⿰𠁣𠃛
 
 # Source Code Separation
 U+95B2	閲	閱
