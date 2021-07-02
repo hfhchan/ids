@@ -36,7 +36,7 @@ U+7D25	紥	⿱扎糸
 U+42C0	䋀	⿸戶糸
 
 # Simplifications
-U+7E9F	纟	⿰纟
+U+7E9F	纟	纟
 U+2B119	𫄙	⿰纟乚
 U+7EC0	绀	⿰纟甘
 U+2E260	𮉠	⿰纟九
