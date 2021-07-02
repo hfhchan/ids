@@ -1,0 +1,107 @@
+# Variant forms in CJK Radicals
+identical	𭕄	⺍
+identical	𠂆	⺁
+identical	⺂	⺂
+identical	乚	⺃
+identical	亻	⺅
+identical	𠘨	⺇
+identical	刂	⺉
+identical	㔾	⺋
+identical	兀	⺎
+identical	尣	⺏
+identical	尢	⺐
+identical	𡯂	⺑
+identical	巳	⺒
+identical	幺	⺓
+identical	彑	⺔
+identical	忄	⺖
+identical	扌	⺘
+identical	攵	⺙
+identical	旡	⺛
+identical	月	⺝
+identical	歺	⺞
+identical	母	⺟
+identical	民	⺠
+identical	氵	⺡
+identical	氺	⺢
+identical	灬	⺣
+identical	爫	⺤
+identical	爫	⺥
+identical	丬	⺦
+identical	犭	⺨
+identical	𤴔	⺪
+identical	𧢲	⻇
+identical	讠	⻈ 
+identical	贝	⻉
+identical	𧾷	⻊
+identical	车	⻋
+identical	辶	⻌
+identical	辶	⻍
+identical	辶	⻎
+identical	阝	⻏
+identical	钅	⻐
+identical	長	⻑
+identical	镸	⻒
+identical	长	⻓
+identical	门	⻔
+identical	𨸏	⻕
+identical	阝	⻖
+identical	㓁	⺳
+identical	艹	⺾
+identical	艹	⺿
+
+# Duplicate
+identical	𠔉	龹
+identical	𠦝	龺
+
+# Swapped because the Unified Ideograph has inconsistent shapes across regions.
+exception	⺗	㣺
+
+# Variant forms in CJK Unified Ideographs
+variant	冃	⺜
+variant	牛	⺧
+variant	雨	⻗
+variant	王	⺩
+variant	王	𤣩
+variant	牛	牜
+variant	飠	𩙿
+variant	尙	𫩠
+variant	𠂊	⺈
+variant	言	訁
+
+# Preferred print form for left Radicals
+print	示	礻
+print	糸	糹
+
+# Preferred forms for Inconsistently Disunified
+preferred	黃	~黄
+preferred	橫	~横
+preferred	靑	~青
+preferred	惡	~悪
+preferred	爲	~為
+preferred	呂	~吕
+preferred	𦣝	~𦣞
+preferred	勻	~匀
+preferred	戶	~户
+preferred	戶	~戸
+preferred	兪	~俞
+
+# Differentiated forms
+diff	⺼	!月	Used for meat, differentiated from 月
+diff	月	!⺼	Used for moon, differentiated from ⺼
+diff	⺫	!⺲	Used with 目, e.g. 眾、夢、曼
+diff	⺲	!⺫	Used with 网, 𦉰, ⺳, e.g. 羅、買
+diff	⺀	!冫	Used for two dots, e.g. 於
+diff	冫	!⺀	Used for cold, e.g. 寒
+diff	𧮫	!谷	Used in 卻、郤、𠈻 etc
+diff	彐	!⺕	Used for variants of 彑
+diff	⺕	!彐	Used for variants of 又
+diff	龸	!𰃮	Used for top form of 尙
+diff	𰃮	!龸	Used for simplifications of 𦥯 or J-simplifications of 𤇾
+diff	⻀	!卝	Used as part of 夢 or 觀
+diff	卝	!⻀	Used as variant of 丱 or 礦
+diff	⺄	!⼄	Used for top right surround
+diff	⼄	!⺄	Used for bottom left surround
+
+# Not allowed
+reject	罒	⺫（目）,⺲（网）
