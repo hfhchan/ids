@@ -23,7 +23,7 @@ U+24854	𤡔	⿰犭梟
 U+2527C	𥉼	⿰目梟
 
 # Source Code Separation / Duplicate
-U+2048E	𠒎	鳬	~⿱{hkcs-9ce5-c01}𠘧
+U+2048E	𠒎	鳬	⿱{hkcs-9ce5-c01}儿
 
 # hkcs_m88ca
 U+5B1D	嬝	⿰女裊
