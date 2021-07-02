@@ -128,4 +128,4 @@ U+20E98	𠺘	⿰口浪
 U+26EAB	𦺫	⿱艹硠
 
 # Simplifications
-U+28C4D	𨱍	鎯	~⿰钅郎
+U+28C4D	𨱍	⿰钅郎
