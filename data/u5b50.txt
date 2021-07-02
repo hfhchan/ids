@@ -2,7 +2,7 @@
 U+5B50	子	子
 
 # Source Code Separation
-U+6559	教	敎
+U+6559	教	⿰孝攵
 
 # hkcs_m5b50
 U+4EAB	享	⿳亠口子
