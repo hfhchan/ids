@@ -1,8 +1,8 @@
 # 巽
-U+5DFD	巽	⿰巳巳共
+U+5DFD	巽	⿱⿰巳巳共
 
 # Source Code Separation / Duplicate
-U+22049	𢁉	巽
+U+22049	𢁉	巽	⿱⿰己己共
 
 # hkcs_m5dfd
 U+7C28	簨	⿱竹巽
