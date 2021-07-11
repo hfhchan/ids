@@ -1,5 +1,6 @@
 # 厶
 U+53B6	厶	厶
+U+53B8	厸	⿰厶厶
 
 # Source Code Separation
 U+7C12	簒	篡
