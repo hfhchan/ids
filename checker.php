@@ -1,5 +1,7 @@
 <?php
 
+require_once 'char-utils.php';
+
 $file = file('canonicalize.txt');
 $differentiatedComponents = [];
 $preferredVariants = [];
@@ -36,6 +38,17 @@ foreach ($files as $file) {
 		$line = trim($line);
 		if ($line === '' || $line[0] === '#') continue;
 		list($codepoint, $char, $ids) = explode("\t", $line, 3);
+
+		if (isset($_GET['warn_ids_to_single_char'])) {
+			$idsList = explode("\t", $ids);
+			foreach ($idsList as $item) {
+				if ($item == $char) continue;
+				if (strlen($item) == 3 || strlen($item) == 4) {
+					echo '<div class=warning>Warning: ' . codepointToChar($codepoint) . ' (' . $codepoint . ') in ' . $file . ' has entry ' . $ids . '</div>';
+				}
+			}
+		}
+
 		$usv = hexdec(substr($codepoint, 2));
 		if (isset($seen[$codepoint]) && $seen[$codepoint] !== $line) {
 			echo '<div class=warning>Warning: ' . $codepoint . ' in ' . $file . ' has entry ' . $line . ', expected ' . $seen[$codepoint] . '</div>';
