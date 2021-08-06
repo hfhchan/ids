@@ -114,6 +114,7 @@ U+2D552	𭕒	⿰京尤
 U+4EAD	亭	⿱{hkcs-4eac-v01}丁
 U+4EAE	亮	⿱{hkcs-4eac-v01}儿
 U+4EB3	亳	⿱{hkcs-4eac-v01}乇
+U+4EB4	亴	⿳{hkcs-4eac-v01}土九
 U+6BEB	毫	⿱{hkcs-4eac-v01}毛
 U+7A01	稁	⿱{hkcs-4eac-v01}禾
 U+8C6A	豪	⿱{hkcs-4eac-v01}豕
