@@ -4,6 +4,7 @@ U+4343	䍃	⿱{hkcs-2ebc-v01}缶
 # Source Code Separation
 U+63FA	揺	搖
 U+6447	摇	搖
+U+7476	瑶	瑤
 U+8B21	謡	謠
 U+9065	遥	遙
 
