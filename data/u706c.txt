@@ -90,3 +90,7 @@ U+268CD	𦣍	⿰⺼羹
 
 # hkcs_m2a6b0
 U+2591A	𥤚	⿰禾𪚰
+
+# Variants 
+U+52F2	勲	勳
+U+3E03	㸃	點
