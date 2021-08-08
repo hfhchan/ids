@@ -8,5 +8,6 @@ U+23EBC	𣺼	⿰氵党
 U+27AC6	𧫆	⿰言党
 
 # Simplifications
-U+954B	镋	⿰钅党
+U+50A5	傥	⿰亻党
 U+8C20	谠	⿰讠党
+U+954B	镋	⿰钅党
