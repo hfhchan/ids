@@ -17,6 +17,8 @@ U+247D2	𤟒	⿱⿰爿{hkcs-2ebc-v01}犬
 U+28853	𨡓	⿱⿰爿{hkcs-2ebc-v01}酉
 
 # Simplifications
+U+4E2C	丬	丬
+
 U+58EE	壮	⿰丬士
 U+8358	荘	⿱艹壮
 U+88C5	装	⿱壮衣
