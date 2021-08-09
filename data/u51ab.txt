@@ -20,3 +20,12 @@ U+2B44C	𫑌	⿰過氷
 # hkcs_m6c37-p02-s00
 U+782F	砯	⿰石氷
 U+24763	𤝣	⿰犭氷
+
+# 仌
+U+4ECC	仌	⿱人人
+
+# hkcs_m4ecc
+U+2338E	𣎎	⿸朕仌
+
+# hkcs_m4ecc-p01-s00
+U+4FCE	俎	⿰仌且
