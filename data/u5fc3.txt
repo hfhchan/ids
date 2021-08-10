@@ -1,5 +1,6 @@
 # 心
 U+5FC3	心	心
+U+5FC4	忄	忄
 
 # hkcs_m5fc3
 U+5FD2	忒	⿹弋心
