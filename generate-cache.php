@@ -34,17 +34,19 @@ try {
 }
 
 $filemodInt = filemtime('./dump_newest_only.txt');
-if ($filemodInt <= $oldest) {
-	echo '<div><b>Notice</b>: dump_newest_only.txt seems to be older than all imported entries; skipping import.</div>';
-	exit;
-}
 
 $filemod = date('Y-m-d H:i:s', $filemodInt);
 $daysAgo = (time() - $filemodInt) / 24 / 60 / 60;
 if ($daysAgo >= 2) {
 	echo '<div><b>Warning</b>: dump_newest_only.txt seems too old: ' . $filemod . '</div>';
+	echo '<div>Download here: <a href="http://glyphwiki.org/dump.tar.gz">http://glyphwiki.org/dump.tar.gz</a></div>';
 } else {
 	echo '<div>dump_newest_only.txt was modified on: ' . $filemod . ' (' . number_format($daysAgo, 2) . ' days ago)</div>';
+}
+
+if ($filemodInt <= $oldest) {
+	echo '<div><b>Notice</b>: dump_newest_only.txt seems to be older than all imported entries; skipping import.</div>';
+	exit;
 }
 
 $db->db->beginTransaction();
