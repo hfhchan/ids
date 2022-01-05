@@ -2,6 +2,7 @@
 
 require_once 'init.php';
 require_once 'char-utils.php';
+require_once 'lookup-lib.php';
 
 $files = scandir('data/.');
 $files = array_filter($files, function ($fileName) {
@@ -102,6 +103,43 @@ foreach ($chunks as $i => $chunk) {
 				<th><?=$codepoint?></th>
 				<td><?=$char?></td>
 				<td><?=htmlspecialchars($ids)?></td>
+			</tr>
+<?
+	}
+
+	$missing = [];
+	for ($i = 0x3400; $i <= 0x9FFF; $i++) {
+		continue;
+
+		if (isset($data['U+' . strtoupper(dechex($i))])) {
+			continue;
+		} else {
+			$missing[] = 'U+' . strtoupper(dechex($i));
+			$codepoint = 'U+' . strtoupper(dechex($i));
+			$char = codepointToChar($codepoint);
+			$ids = '???';
+			try {
+				$db = new DB();
+				$glyph = $db->getGlyph('hkcs_m' . dechex($i));
+				$idsList = $glyph->tryConvertToIDS();
+				$idsList = preg_split('//u', $idsList, null, PREG_SPLIT_NO_EMPTY);
+				$ids = '';
+				foreach ($idsList as $c) {
+					$related = 'u' . strtolower(substr(charToCodepoint($c), 2)) . '.txt';
+					if (file_exists($related)) {
+						$ids .= '!!';
+					}
+					$ids .= '<a target=_blank href="lookup.php?char='.$c.'">' . $c . '</a> ';
+				}
+			} catch (Exception $e) {
+
+			}
+		}
+?>
+			<tr <? if (true) echo 'style="background:#fff"'; else echo 'style="background:#eee;color:#999"'; ?>>
+				<th><?=$codepoint?></th>
+				<td><a target=_blank href="lookup.php?char=<?=$char?>"><?=$char?></a></td>
+				<td><?=($ids)?></td>
 			</tr>
 <?
 	}
