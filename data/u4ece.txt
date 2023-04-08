@@ -16,3 +16,6 @@ U+2D382	𭎂	⿰土从
 
 # hkcs_m4ece-p03-s00
 U+39B0	㦰	⿱从戈
+
+# Simplifications
+U+4F17	众 	⿱人从
