@@ -1,3 +1,4 @@
 cache/
 cache.sqlite3
 dump_newest_only.txt
+release/ids.txt

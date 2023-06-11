@@ -33,7 +33,9 @@ foreach ($files as $file) {
 		list($codepoint, $char, $ids) = explode("\t", $line, 3);
 		$usv = hexdec(substr($codepoint, 2));
 		if (isset($seen[$codepoint]) && $seen[$codepoint] !== $line) {
-			echo '<div class=warning>Warning: ' . $codepoint . ' in ' . $file . ' has entry ' . $line . ', expected ' . $seen[$codepoint] . '</div>';
+			$warning = 'Warning: ' . $codepoint . ' in ' . $file . ' has entry ' . $line . ', expected ' . $seen[$codepoint];
+			echo "<div class=warning>$warning</div>";
+			fwrite(STDERR, "$warning\n");
 			$error = true;
 		}
 		$seen[$codepoint] = $line;
@@ -49,9 +51,13 @@ $ids = '';
 foreach ($data as $line) {
 	$ids .= trim($line) . "\r\n";
 }
-file_put_contents('./release/ids-' . date('Ymd') . '.txt', $ids);
+file_put_contents('./release/ids.txt', $ids);
 
 file_put_contents('./processed.txt', json_encode($components));
+
+if (php_sapi_name() === "cli") {
+	return;
+}
 
 ?>
 <title>Release Generator</title>
