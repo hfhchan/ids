@@ -40,13 +40,6 @@ U+2962D	𩘭	⿺風羞
 # hkcs_m98a8-p26-s00
 U+760B	瘋	⿸疒風
 
-# hkcs_m98a8-v01-p05-s00
-U+2B5BF	𫖿	⿺{hkcs-98a8-v01}美
-U+2B5C0	𫗀	⿺{hkcs-98a8-v01}海
-U+2CC76	𬱶	⿺{hkcs-98a8-v01}幻
-U+2CC79	𬱹	⿺{hkcs-98a8-v01}北
-U+2CC81	𬲁	⿺{hkcs-98a8-v01}南
-
 # hkcs_m5d50
 U+2B679	𫙹	⿰魚嵐
 
@@ -65,6 +58,15 @@ U+75AF	疯	⿸疒风
 U+98D9	飙	⿰猋风
 U+300F6	𰃶	⿰冫风
 U+310DD	𱃝	⿱风⿰风风
+
+# Simplifications (𲋄)
+U+322C4	𲋄	𲋄
+U+31F50	𱽐	⿱艹𲋄
+U+2B5BF	𫖿	⿺𲋄美
+U+2B5C0	𫗀	⿺𲋄海
+U+2CC76	𬱶	⿺𲋄幻
+U+2CC79	𬱹	⿺𲋄北
+U+2CC81	𬲁	⿺𲋄南
 
 # Variant (凬)
 U+51EC	凬	⿵𠘨⿱一日
